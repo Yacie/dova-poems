@@ -1,0 +1,12 @@
+{
+  "name": "dova",
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@mongo-url",
+    "NODE_PATH": "."
+  },
+
+  "routes": [
+  	{ "src": "/poems" }
+  ]
+}

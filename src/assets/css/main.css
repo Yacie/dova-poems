@@ -1,0 +1,5 @@
+@import './home.css';
+@import './poems.css';
+@import './admin.css';
+/*@import '../fonts/JosefinSans-Bold.ttf';
+@import '../fonts/NovaSlim.ttf'; Compilation error: Unclosed bracket*/

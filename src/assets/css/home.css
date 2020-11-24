@@ -1,0 +1,40 @@
+#app {
+  font-family: JosefinSans-Bold.ttf, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #03264c;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #03264c;
+  text-decoration-line: none;
+}
+
+#nav a.router-link-exact-active {
+  color: #fff;
+  background-color:#03264c
+}
+
+.bg-da {
+	background-color:#03264c!important;
+}
+
+.btn-da {
+  background-color:#03264c!important;
+  color: #fff!important;
+}
+
+.text-da {
+  color: #03264c!important;
+}
+
+.border-da {
+  border: 2px solid #03264c!important;
+}
+
+.beware {
+  box-shadow: -.5rem .5rem 0 .1rem #03264c;
+  border-radius: 5px
+}
