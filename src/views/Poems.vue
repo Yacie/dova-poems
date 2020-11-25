@@ -127,7 +127,7 @@
       fetchPoems(){
         return axios({
           method: 'get',
-          url: process.env.VUE_APP_BASE_URL+'/poems',//process.env.VUE_APP_BASE_URL+
+          url: '/poems',//process.env.VUE_APP_BASE_URL+
           headers: {
             'Content-Type': 'application/json',
           },

@@ -4,8 +4,10 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const cors = require('cors');
+var serveIndex = require('serve-index')
 const serveStatic = require('serve-static');
 const history = require('connect-history-api-fallback');
+const config = require('./config');
 
 const router = express.Router();
 const poemsRouter = require('./routes/poems');
@@ -19,7 +21,7 @@ app.use(cors());
 
 //connect to mongodb dova
 const mongoose = require('mongoose');
-mongoose.connect(process.env.VUE_APP_MONGODB_URI || 'mongodb://localhost:27017/dova', { 
+mongoose.connect(process.env.MONGODB_URI || config.mongoUrl, { 
 		useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: false 
 	}, ()=>{
 	console.log('DOVA connection has been made');
@@ -36,11 +38,12 @@ router.get('/', (req, res)=>{
 const port = process.env.API_PORT || 8081;
 
 app.use(express.static(path.join(__dirname, 'public')));
+app.use('/public', express.static('public'), serveIndex('public', {'icons': true}))
 app.use('/', router);
 app.use('/poems', poemsRouter);
 
 // catch 404 and forward to error handler
-app.use((req, res, next)=>{
+app.use((next)=>{
   next(createError(404));
 });
 
@@ -55,8 +58,8 @@ app.use((err, req, res, next)=>{
   res.render('error');
 });
 
-var server = app.listen(port, ()=>{//221020 pre added 'var server = '
+var server = app.listen(port, ()=>{
 	console.log('api running on port',port);
 });
 
-module.exports = server; //221020 added this line
+module.exports = server;

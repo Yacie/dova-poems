@@ -1,29 +1,18 @@
 const express = require('express');
 const router = express.Router();
 const Poem = require('../models/poems');
-const bodyParser = require('body-parser');
+const ichoo = require('../api/hello')
 
 /* GET all poems */
 router.get('/', (req, res, next)=>{
 	Poem.find(req.query)
-  .populate('comments.author') 
-  .then((poems)=>{//Params: heading subheading body //error,
-    res.statusCode(200);
+  .then((poems,im)=>{
+    res.statusCode=200;
     res.setHeader('Content-Type', 'application/json');
-    res.json({poems});
+    res.json({poems,im:ichoo});
+    res.send({im:ichoo})
 	}, (err) => next(err))
   .catch((err) => next(err));
 });
-
-//get a single poem details
-router.get('/:id', (req, res, next)=>{
-	Poem.findById(req.params.id)
-  .populate('comments.author')
-  .then((poem)=>{//Params: heading subheading body //error, 
-    res.statusCode = 200;
-    res.json({poem});
-	}, (error) => next(error))
-  .catch((error) => next(error));
-})
 
 module.exports = router;
