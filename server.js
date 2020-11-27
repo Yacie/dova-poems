@@ -4,7 +4,6 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const cors = require('cors');
-var serveIndex = require('serve-index')
 const serveStatic = require('serve-static');
 const history = require('connect-history-api-fallback');
 const config = require('./config');
@@ -15,15 +14,21 @@ const poemsRouter = require('./routes/poems');
 const app = express();
 app.use(history());
 app.use(serveStatic(__dirname + "/dist"));
+app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(morgan('combined'));
 app.use(cors());
+
+//Configure for environment variables
+if (process.env.NODE_ENV !== 'production') {
+	require('dotenv').config();
+}
 
 //connect to mongodb dova
 const mongoose = require('mongoose');
 mongoose.connect(process.env.MONGODB_URI || config.mongoUrl, { 
 		useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: false 
-	}, ()=>{
+	}, (err, db)=>{
 	console.log('DOVA connection has been made');
 })
 .catch(err => {
@@ -38,7 +43,6 @@ router.get('/', (req, res)=>{
 const port = process.env.API_PORT || 8081;
 
 app.use(express.static(path.join(__dirname, 'public')));
-app.use('/public', express.static('public'), serveIndex('public', {'icons': true}))
 app.use('/', router);
 app.use('/poems', poemsRouter);
 
@@ -46,6 +50,8 @@ app.use('/poems', poemsRouter);
 app.use((next)=>{
   next(createError(404));
 });
+
+console.log(process.env.PORT)
 
 // error handler
 app.use((err, req, res, next)=>{

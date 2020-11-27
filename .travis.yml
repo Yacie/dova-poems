@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "12.14.1"
+  - "12"
 before_script:
   - npm install
-script: npm run unit
+script: npm start
