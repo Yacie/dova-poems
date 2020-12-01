@@ -21,7 +21,7 @@ app.use(cors());
 
 //Configure for environment variables
 if (process.env.NODE_ENV !== 'production') {
-	require('dotenv').config();
+	//require('dotenv').config();
 }
 
 //connect to mongodb dova
@@ -34,7 +34,7 @@ mongoose.connect(process.env.MONGODB_URI || config.mongoUrl, {
 .catch(err => {
 	console.error('App starting error:', err.stack);
 	process.exit(1);
-});
+});/**///Commented out 281120 experimenting with serverless functions
 
 router.get('/', (req, res)=>{
 	res.json({ message: 'API Initialized!'});
@@ -50,8 +50,6 @@ app.use('/poems', poemsRouter);
 app.use((next)=>{
   next(createError(404));
 });
-
-console.log(process.env.PORT)
 
 // error handler
 app.use((err, req, res, next)=>{

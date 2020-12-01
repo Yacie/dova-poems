@@ -4,27 +4,27 @@
       <div class="col-4 col-md-3 col-xl-3 bg-da text-dark py-3 sticky-top" style="max-height:100vh; overflow-y:scroll">
         <h4 @click="show_fh = !show_fh" :aria-expanded="show_fh ? 'true' : 'false'" class="list-group-item my-1 text-truncate">Faith</h4>
         <ul class="list-group ml-3 h6">
-          <li v-for="poem in poems" :key="poem._id" v-if="poem.chapter==1" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
+          <li v-for="poem in poems" v-if="poem.chapter==1" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
             {{poem.heading}}
           </li>
         </ul>
         <h4 @click="show_he = !show_he" :aria-expanded="show_he ? 'true' : 'false'" class="list-group-item my-1 text-truncate">Hope</h4>
         <ul class="list-group ml-3 h6">
-          <li v-for="poem in poems" :key="poem._id" v-if="poem.chapter==2" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
+          <li v-for="poem in poems" v-if="poem.chapter==2" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
             {{poem.heading}}
           </li>
         </ul>
         <h4 @click="show_le = !show_le" :aria-expanded="show_le ? 'true' : 'false'" class="list-group-item my-1 text-truncate">Love</h4>
         <ul class="list-group ml-3 h6">
-          <li v-for="poem in poems" :key="poem._id" v-if="poem.chapter==3" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
+          <li v-for="poem in poems" v-if="poem.chapter==3" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
             {{poem.heading}}
           </li>
         </ul>
         <h4 @click="show_fy = !show_fy" :aria-expanded="show_fy ? 'true' : 'false'" class="list-group-item my-1 text-truncate">Folly</h4>
         <ul class="list-group ml-3 h6">
-          <li v-for="poem in poems" :key="poem._id" v-if="poem.chapter==4" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
+          <li v-for="poem in poems" v-if="poem.chapter==4" @click="g8_poem(poem)" class="list-group-item text-truncate p-2 border-dark">
             {{poem.heading}}
-          </li>
+          </li><!--add :key="poem._id" on each 'v-for' if fetching dynamic poems-->
         </ul>
       </div>
       <div class="col-8 col-md-9 col-xl-9" id="v-poems">
@@ -82,7 +82,7 @@
           <h5 class="card-body">
             <h4 v-if="poem.subheading">{{poem.subheading}}</h4>
             <pre class="text-da"><b>{{poem.body}}</b></pre><hr>
-            <i class="btn-group border-da rounded">
+            <i class="btn-group border-da rounded disabled">
               <i class="fa fa-heart-o btn btn-sm text-da px-1" id="likes"><sup v-if="poem.likes.length"><b> {{poem.likes.length}}</b></sup></i>
               <i class="fa fa-comments-o btn btn-sm text-da px-1"><sup v-if="poem.comments.length"><b> {{poem.comments.length}}</b></sup></i>
               <!--<i class="fa fa-shopping-cart btn btn-sm bg-da text-light"></i>-->
@@ -99,6 +99,7 @@
 
 <script>
   import axios from 'axios';
+  import poems_static from '../assets/js/poems.json';
 
   export default {
     data(){
@@ -125,22 +126,24 @@
     },
     methods: {
       fetchPoems(){
-        return axios({
+        this.poems = poems_static;
+        /*return axios({
           method: 'get',
-          url: process.env.VUE_APP_BASE_URL+'/poems',//process.env.VUE_APP_BASE_URL+
+          url: 'http://localhost:8081/poems',//process.env.VUE_APP_BASE_URL+
           headers: {
             'Content-Type': 'application/json',
           },
         })
         .then((res)=>{
           this.poems = res.data.poems;
+          //this.$store.commit('POEMS', this.poems);
           if(!res.data.poems){
             console.log('WHAT THE FUCK!!!',res);
           }
         })
         .catch((err)=>{
           console.log(err);
-        });
+        });*/
       },
       g8_poem(poem){
         if(poem._id == this.poem._id)return;

@@ -1,0 +1,1538 @@
+[{
+  "_id": {
+    "$oid": "5f344a45e1f11c2bdc911645"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2009-07-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Dear Father",
+  "body": "This morning I pray, \nYou know how busy I’ll be\nThe rest of the day, \nIf I forget You,\nMay You forget me not?\nIf in any way I’m going to assume \nA self destructive attitude,\nMay it be far from You \nTo letting any calamities befall me?\n\nEnlighten me of my ignorance,\nGive me a clear conscience,\nStretch my imagination and \nMay You perfect \nThe visual acuity of my perception?\n\nKeep me thinking straight and \nHelp me in asking the right questions, \nIn the right order?\n\nMay I cause smiles that heal souls and \nChase away tears. \nMay those around me, \nHave confidence in me,\nMay they respect my judgment and \nMay I be a blessing to them?\n\nAt the end of the day,\nMay I be a beacon of hope,\nMay You find pleasure in my prosperity and \nMay You delight in my satisfaction?\n\nForever and ever, \nAnd at the end of the day,\nMay Your will prevail. \nAmen.",
+  "chapter": 1,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f344c19e1f11c2bdc911646"
+      },
+      "liker": {
+        "$oid": "5f343910790f390994fffadc"
+      },
+      "createdAt": {
+        "$date": "2020-08-12T20:07:53.766Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-12T20:07:53.766Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5f441f615a919a2170c45c33"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-08-24T20:13:21.425Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-24T20:13:21.425Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5f4d4007d186362158af3f91"
+      },
+      "liker": {
+        "$oid": "5f3d637912ea800f9cc7685b"
+      },
+      "createdAt": {
+        "$date": "2020-08-31T18:23:03.067Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-31T18:23:03.067Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5f7e163824e3c212e0cb116e"
+      },
+      "liker": {
+        "$oid": "5f47c9401d4fce04404d8159"
+      },
+      "createdAt": {
+        "$date": "2020-10-07T19:25:44.594Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-07T19:25:44.594Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-12T20:00:05.154Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T19:25:44.594Z"
+  },
+  "__v": 130
+},{
+  "_id": {
+    "$oid": "5f344e92e1f11c2bdc911647"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2014-08-21T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Bride Of The Promise",
+  "body": "‘Son,’ \nDaddy God asked me.\n\n‘Now that you have all these; \nWhat else do you need,\nThat I may grant it for you,\nThat your joy may be full?’\n\nI always thank the Holy Spirit \nFor guidance and utterance,\nFor spontaneously I said,\nWith all the meekness\nAnd sincerity of soul.\n\n‘My Father,’ \nI began.\n\n‘Cause I have found favour \nIn your eyes,\nPlease grant it to me that,\nI have a good cause in this life,\nA noble, challenging and rewarding \nA vision.\nThat now my joy may be full\nAnd that I, in old age may triumph?’\nWith a smile on His face, \nHe remarked.\n\n“What a noble request!?\nBut know this first,\nBefore you embark on your noble quest\nYou have to find true love lest,\nIn old age there is no triumph.\n\nI have blessed your hope\nAm teaching you wisdom\nAnd a very valuable lesson,\nYour path I will make straight.\n\nOn your way from here\nYou will meet two maidens,\nOne will give you something to detest\nAnd you’ll give her something\nTo yearn for,\nAnd she’s not the bride of the promise.\n\nIt’s only she,\nThe bride of the promise,\nWhom your heart desire,\nOnly her, will you love\nAnd your soul long for,\nFor on this quest of yours\nShe’s your suitable helper.\n\nI am giving her to you,\n‘Cause you need her,\nAnd she needs you\n\nGetup now.”\n\nWhen I came of age\nI learnt, \nThe journey was half the reward\nAnd of cause,\nI triumph.",
+  "chapter": 1,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f5f78d72c3231232c2f2d9e"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-14T14:06:15.767Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-14T14:06:15.767Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-12T20:18:26.057Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T08:16:28.606Z"
+  },
+  "__v": 31
+},{
+  "_id": {
+    "$oid": "5f345185e1f11c2bdc91164b"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2008-03-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "It Was AIDS",
+  "body": "When I came off creation,\nI boarded earth, \nAnd took a seat in my mother's womb. \nI travelled for about nine months,\nThen stopped at the world \nAnd settled in a suburb they call Zimbabwe. \n\nFrom my early days in that hood,\nI noticed that, my neighbours \nWhere sort of hiding something from me,\nHowever, I did not dare ask,\nI dismissed the idea by telling myself that,\n‘They have an attitude;\nEspecially to strangers.’\n\nI noted that, whenever somebody died, \nMy neighbours though sorrowful, \nBarely shed tears, at least \nI reasoned that, \nTheir tear glands had dried up \nBecause of the constant weeping \nFor their loved ones, \nThey were frequently losing.\n\nThe poor were the worst hit,\nAt first, I thought it was out of poverty,\nBut I was soon to learn that,\nThe richer and wealthier were not spared,\nThus my deduction that \nThey were both unhappy out of a common cause. \n\nI set out to find this cause, \nAnd I discovered, \nThere was a bully in the area, \nHe was also a vicious and ambitious killer, \nAnd he was at his very peek of his spree, \nKilling, murdering and assassinating. \n\nWith my enquiring mind, \nI learnt he had wrecked havoc\nFor close to three decades.\nI asked myself, \n‘But why for all these years,\n Had the law enforcement agents \n Failed to nail down the culprit?\"\n\nI found no logical answer, \nHence my conclusion that,\nThey had joined him, \nAs the old saying goes,\n\"If you can't beat ‘em, then join ‘em.\" \n\nMy facts also had it that,\nIn the history of the hood,\nThere had also been a killer by the name,\n'Black Death.'\nHowever, he was not that vicious,\nAnd he was quickly brought to book.\n\nThe killer who had taken captive \nThe joy of my people\nHad no actual name,\nHe was known generally by how he killed. \nThe killer was not 'a she,' he was 'an it,' \nIt was AIDS.",
+  "chapter": 1,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-12T20:31:01.303Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:26:37.210Z"
+  },
+  "__v": 12
+},{
+  "_id": {
+    "$oid": "5f345720f887f42508692767"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2012-05-21T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Ishava Mwendamberi",
+  "body": "Takarerwa zvakanaka,\nVaitidzidzisa, kutsiura ne kuranga\nChero ndaka jaidzwa\nAsi idambudziko raani?\n\n‘Ndasiya dhora pa dressing table,\nMozogovana.’\n\n‘Endai kuna Inno anoku sainirai,’\n\n‘Yacie huya pano,\nEnda unodira mvura mu toilet.’\n\n‘Tatenda! Uchiri wakasvinura\nUrikuitei?’\n\n‘Iwe! Dzikisa volume iyo’\n\n‘Ah! Kamusikana kako \nIkako handidi kukaona pano.’\n\n“Iwe! Ko verse yangu,\nLuke 1 verse 37?\n‘For with Elohim, nothing is impossible’”\n\nMai vangu ndinovada,\nVakandiunzira chiedza mu hupenyu hwangu.",
+  "chapter": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f3d6e169f4f6d09385c307d"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-08-19T18:23:18.120Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-19T18:23:18.120Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-12T20:54:56.648Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:31:45.648Z"
+  },
+  "__v": 22
+},{
+  "_id": {
+    "$oid": "5f345883f887f42508692769"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-08-09T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Mwari Ngavatibatsire",
+  "body": "Suppose, you get to meet with Yhwh, \nOnce a year, for a minute\nWhat will you say?\n\nSuppose, you get to meet with Him, \nOnce every ten years, for ten minutes \nWhat could you possibly do?\n\nSuppose, you get to meet with Him, \nOnce in your lifetime, for 24 hours\nHow will you spend that day?\n\nI suppose, \nI would ask Him what He thinks of me,\nAnd then mean to say, thank you.\nThat way, it would not make a difference,\nIf I was staying with Him.\n\nSuppose we could never meet with Him, \nWhy would we wish to meet with Him?\n\nBut suppose, we get to meet with Him\nIn every person, and we have all the time\nHow should we treat Him?\n\nI wonder, and leave you to ponder.",
+  "chapter": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f494dc400d5c8132cfcbdc0"
+      },
+      "liker": {
+        "$oid": "5f47c9401d4fce04404d8159"
+      },
+      "createdAt": {
+        "$date": "2020-08-28T18:32:36.003Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-28T18:32:36.003Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-12T21:00:51.002Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T08:25:58.906Z"
+  },
+  "__v": 11
+},{
+  "_id": {
+    "$oid": "5f3514fc445a5100ac25cf38"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-09-08T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Yearn, Learn, Earn",
+  "body": "It's not in their nature to nurture; \nThey rehearse not to show remorse. \nShould they be creative, \nTheir humour goes like \n'The days I love you are numbered.'\n\nThey always find something to complain about, \nAt one time and since then,\nHave always asked, \nWhat their country will do for them. \nTo them, to achieve is not attractive.\n\nSugar is just sweet, \nWater is just wet, \nThe light is white and \nThe sun is bright.\n\nRight is right, Left is wrong,\nEast is east and west is worst. \nBeing first is always best.\n\nEven if they be the wisest, \nThere still was hope for humanity.",
+  "chapter": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T10:25:00.404Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:27:45.960Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3518c1445a5100ac25cf39"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2013-09-25T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Baptism Of Fire",
+  "body": "I had to be hurt and hated \nTo learn to love\nWith tears on my face,\nI learnt to laugh.\n\nBecause of yesteryear,\nI rejoice in the present.\nI thank my ignorance,\nFor all my experience, and\nMy indifference, for my passions.\n\nI thank you for nothing\nWhich you did that mattered,\nI will always be there \nTo cherish and nourish you.",
+  "chapter": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T10:41:05.069Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:28:03.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f351bfcea04422738df65f6"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-07-09T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Let Jah Be The Judge",
+  "body": "I set out on a great trek, \nA very bold and decisive move, \nFor, that was a very dangerous one, \nFor that matter.\n\nOne by one it was getting us,\nAnd we were falling,\nGreat in numbers by the day,\nA calamity had become a normality.\n\nDespite being a good player,\nI hung up my gloves.\nMy mission was to bell a cat,\nFor, what was worthwhile to do in my life?\n\nThere are some things worse than death,\nAnd believe you me,\nOne of them was just sitting there\nUntil it finally got me too.\n\nI sacrificed relations, \nGave up my youth \nAnd died to self, \nIn the hope that one day, \nIn old age, \nI will triumph. \n\nThey asked the wrong questions, \nAnd judged me, when they knew me not.\n\nThey called me names; \nA neurotic and a psychotic, \nA traitor and a sell-out, \nA disgrace to my own family.\n\nFrom the beginning, \nI was armed with sheer determination \nAnd discretion; \nAnd they said, \nI was carrying weapons of self-destruction.\n\nHere I am, \nHaving belled the cat, \nI stand head high, \nAnd though short in their midst, \nI walk tall.\n\nStill, \nIn the passing on of time,\nSome may call me a saint, \nAn idiot savant,\nOr plainly, 'a holy shit.'\nI am Tatenda Yah, \nThe righteousness of Yahweh;\nAnd that's what I'll answer to.",
+  "chapter": 2,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f968f53cdecd31b005d137f"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-10-26T08:56:51.159Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-26T08:56:51.159Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T10:54:52.663Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T08:56:51.159Z"
+  },
+  "__v": 7
+},{
+  "_id": {
+    "$oid": "5f352fc0a59adc1d10bebae3"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-06-07T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Regai Asike Munhukadzi",
+  "body": "Kubva kubasa na 2000 \nKombi ye 50 cents yava kuita $1 \nkugadza mazondo pa moto \nNekuzo muka atsva \nkudya zvasara ne kurara\nkurara ndaka pfeka bhutsu nekuti kuri kutonhora \nkumuka kuma tuu nda’a kurumwa ne masvosve \nAri kutevera muto wandarasira pa mubhedha \nkuwaridza pasi ne kurara zvekare\nkumuka kuma thrii hope dza pera \nKumbo nzvera bhaibheri kusvika na faifi\nkumuka na 0555 alamu yarira \nYekuti ndidziise mvura \nPandinozo tarisa mvura mushure me awa \nNdo ona kuti yanga isingadziye\nkugeza ino tonhora,\nNdapedza ndozoona zvakanyorwa kuseri kwe gonhi \n\n    “Mwana’ngu urikuda \n    kuzondionawo riinhi?”\n\nMuridzi wemba iyeye ari kubvunza mari yake.\n\nYema socks akasiyana i obvious\nBut nda taura here kuti:\nNdinenge nda geza ne sipo ye ndiro\nUye kuti bhurasho re mazino rino wira mu chemba\nNdino kama musoro ne foko\nMagetsi oenda ndisati nda pedza \nkuaina hembe ne poto\nNdinozo buda mumba ndisina kutora svutugadzike\nNekuti ndinenge nda nonoka\nNdino famba zvinhambwe zvuru zvishanu \nKuenda kubasa\nNekuti makombi e kwangu haasi kufamba\nNekuda kwe mapurisa\nNdichi svika kubasa ndoona kuti\nHandina svumbunuro yepa mukova, aargh!\nFortunately ndinenge ndakakanganwa \nKusiya ndakiya madeko acho\n\nNdinokuda shah, \nUndibatsirewo kunyatsoronga.",
+  "chapter": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T12:19:12.567Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T16:13:30.171Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f35585fa59adc1d10bebae5"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2014-09-16T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Eve Of The Revolution",
+  "body": "On the eve of the revolution\nMoments before the trumpet was sounded\nI remember seeing their faces\nPregnant with expectation\nAs we sang\n    “The Spirit Says Come.”\n\nThe atmosphere was supercharged \nLike on the Passover night\nWhen the first and faintest of cries were heard\nAnd as they waited for Moshe’s signal\nTo begin the forty year trek\n\nLike then, \nAs when Moses stretched forth his hand\nTo part the Red Sea\nThe great awe that engulfed them\n\nLike with Joshua\nJust before he signalled them to shout\nBefore the walls of Jericho \nWith a great crush, came tumbling down\n\nAnyone who witnessed the event can testify\nAnd for everyone who took part \nAn eternal mark they bear\nAs memories of a great triumphant entry\nYou see this mark here?\nThat’s a seal for the brave hearts\n\nLike just before the union jack \nDishonourably was brought down\nAnd the Zimbabwe flag \nProudly rose high\n\nThe atmosphere, \nAs orchestrated as it was\nWas defined by the eager expectation\nThe ignorant confusion\nAnd the fear of the unknown\n\nHave you ever had those moments?\nOr maybe it occurred to you just once, like me\nWhen you feel like\nYour whole life\nWas in preparation for that only one moment\n\nYeah, for me it was only that one moment\nFor I was the one to sound the shofar\nAnd it was unlike the near death experience\nI had had a few months ago\nFor then I felt more alive\n\nNow my past met my future\nAnd my future met my past\nThen I discovered that difference\nBetween fact and fiction\nFiction has to make sense\nThe heavens and the earth\nAre to be shaken...\nAnd that love you have\nBy fire it’s being tried\n\nI remember kissing her \nFor the first time in ages,\nIf hell hath no fury like a scorned woman,\nThen, heaven has joy \nLike on earth, fucking with own true love\n\nWelcome to the true love age\nThe Bride says come.",
+  "chapter": 2,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f4d3eef059bb723e4c2ad15"
+      },
+      "liker": {
+        "$oid": "5f47c9401d4fce04404d8159"
+      },
+      "createdAt": {
+        "$date": "2020-08-31T18:18:23.786Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-31T18:18:23.786Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T15:12:31.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T12:16:49.869Z"
+  },
+  "__v": 45
+},{
+  "_id": {
+    "$oid": "5f3561ea6ad58f1f68f80b84"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-07-04T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "The Exceptional Man",
+  "body": "My father used to say\n‘Keep your heart with all diligence,\n For out of it are the issues of life.’\n\nMy father used to sing,\n‘Simudzai mureza wedu we Zimbabwe.’\n\nMy father used to advise,\n‘To those who understand, \nLife is just as it is;\nTo those who don’t understand, \nLife is just as it is.\n\nMy father used to think,\nThe sun moved round the earth,\nHowever, \nHe dreamed of an expected end,\nHe was just an exceptional man.\n\nI don’t know what it means,\nBut he once said,\n‘You are the good works \nThat have come out of me, \nAnd these works will live long \nAfter I’m gone.’\n\nThough it took him a long time \nTo forgive mom, \nWhat had he to say,\nWhen I asked him about his first girlfriend,\n‘My prince, her majesty the Empress\nTaught me what love was really about.’\n\nThat was Yacie, \nThe husband of my mother’s youth.\n\nThough he kept saying I can do better,\nWhat had he to say,\nWhen I failed my team,\nAt the Hwishu Tournament;\n‘You were the most deserving \nSecond best.’\n\nThat was Yacie, my hero.\n\nThough I discovered it,\nAnd it was named after him,\nWhat had he to say, \nWhen we discovered that cave.\n\nI said,\n‘What a splendid place \nTo hide.’\n\nMom said,\n‘What a splendid place \nTo paint murals.’\n\nHe only said,\n‘What a splendid cave.’\n\nThat was Yacie, my mentor.\n\nWhat did he say, \nWhen I asked him about \nThe future of his empire,\n‘Son, QBI will not miss me,\nDoesn’t it make you proud, \nTo know you have been serving QBI,\nFor ten years now.\n\nThat was Yacie, \nUnder the guidance of the Most High\nThe founder of QBI.\n\nPerhaps what made him exceptional is,\nHe was a believer,\nHe believed in the best in everyone \nAnd had a way of imparting his ideas \nUnto man.",
+  "chapter": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T15:53:14.333Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:38:41.409Z"
+  },
+  "__v": 184
+},{
+  "_id": {
+    "$oid": "5f35679811293516a457268c"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-07-31T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Mufaro Wangu",
+  "body": "Mufaro wangu\nRudo rwangu\nRugare rwangu\nRudekaro rwangu\n\nPandakamuona musikana uyu\nNdakaziva kuti rudo rwedu rwaizokura\nNdakamutarisa ndaiona mudzimai akasvika\nAmai vemba vaizobika kudya kunonaka\nRunako rwake rwainjenjema \nKune vese vaiona\nHapana aisaziva kuti tinodanana.\n\nAsi vekumhuri kwangu nekwake\nHavana kutinzwisisa\nZvataiitirana hapana akazviziva\nUye zvatainzwa havaiikwanisa kuzvinzwa\nNekuti vaisava mushangu dzedu.\n\n--Written by: Mufaro B Mashanda",
+  "chapter": 3,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f848018120da20c60cad2c8"
+      },
+      "liker": {
+        "$oid": "5f8414e7c8199612a0cbf942"
+      },
+      "createdAt": {
+        "$date": "2020-10-12T16:11:04.301Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-12T16:11:04.301Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T16:17:28.380Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T16:11:04.303Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f356d436945160d2c733f1d"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-06-30T22:00:00Z"
+  },
+  "label": "",
+  "price": 1,
+  "featured": false,
+  "heading": "Aindida Madiro Andaisada",
+  "body": "Pandakamuziva mukomana uyu\nNdaisaziva kuti nerimwe ramazuva\nNdaizomufara uye ndaizotaura naye nyaya \nNdaisaziva kuti jaya iri\nRaindida madiro andaisada\n\nPaakanditsvetsva mujaya,\nMoyo wangu wakanyemwerera\nNdakati ndamuwana mudiwa weupenyu hwangu.\nMukwenyi wemhezi yavavira mudumbu.\nBaba na saimba vemba yedu\nAsi ndaisaziva kuti aiva maminimini ehope, \nChembere kurota ichiyamwa.\nAindida madiro andaisada.\n\nRudo rwangu kwaari\nRwakanga rwakadzika sedziva\nRwaiva rudo rwaiva ne tarisiro re ramangwana \nAsi rudo rwake rwakanga rwakaita semoto \nWe mashanga\nRwaida kungopfuta kamwe chete \nRwobva rwadzima,\nAindida madiro andaisada.\n\nNdakamuda nekuda kwezvaaiva\nHandina kumudira mari\nHandina kukoshesa zvakawanda, \nChero aiva mudoko pandiri\nNdaitarisira rudo runoenderera mberi,\nKusvikira rufu rwatiparadzanisa.\nMundangariro ndaiona svitsa tsvene\nAsi iye aida kufara neni,\nAindida madiro andaisada.\n\nZvewanano zvakanga zviri kure naye\nAkanga andidira utsvuku kana upfupi\nZvichida aida runako rwekunze, \nKana kuti rwaiva ruchiva\nPamwe aingotsvaka pekuponera \nKana wekufara\nAkazopupura pamberi pa mufundisi kuti \nAisava nomuwono wemberi\nNdakabva ndaziva kuti\nAindida madiro andaisada.\n\nZvisinei, Ndakaenderera mberi ne upenyu\nNdakaona kuti kwaiva kuzvipedzera nguva,\nKukava bhora risina mweya, \nKutandanisana ne mhepo,\nBhora iri raisafamba\nNekuti mujaya uyu\nAindida madiro andaisada.\n\n--Written by: Mufaro B Mashanda",
+  "chapter": 3,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T16:41:39.381Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:39:50.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f356f1b9823f807189851b1"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-07-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "I Believe In Fate",
+  "body": "Immediately, \nAfter you handed me that note, \nI put it, \nIn my trousers’ pocket;\n\nUnfortunately, \nIn \"the gents' \" \nI lost it, \nBefore I had even, looked into it;\n\nRegrettably, \nHad I known that, \nFor me to see you then was my last, \nI wouldn't have just left Yvette;\n\nApparently, \nYour friend I met,\nSix months down the line,\nAnd she told me, in the note,\nYou had stated the date, time and place\nWe were supposed to meet.\nThen you tell me, \"It's a yes.\"\n\nFinally, \nI believe in fate, \nIf we were meant to merge \nWe are gonna meet, \nThen you become my mate.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T16:49:31.325Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:40:12.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3570d59823f807189851b3"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-01-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Confessions",
+  "body": "The reason why \nNdaka danana na Flo\nWas to experiment with girls;\n\nThe reason why \nNdaka danana na Claire\nWas to forget about Flo;\n\nThe reason why \nNdaka danana na Akeira\nWas to get back on Claire.\n\nThe reason why \nNdaka danana na Tino\nWas to settle down;\n\nThe reason why \nNdaka danana na Maria\nWas to get over Tino;\n\nThe reason why \nNdaka danana na Mayo\nWas to make her a better partner \nIn her next relationship, \nI just needed a friend.\n\nThe reason why \nNdichikuda is…\nI don't know, \nMaybe I really love you.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T16:56:53.498Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:40:39.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f357446fa88951e1c0fd50f"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-01-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "May I Now",
+  "body": "I believe you and in you,\nIn the spirit of love,\nYou will teach me \nWhat I do not know\nYou will tell me \nWhat I’ve never heard before\nAnd will show me \nWhat I had never seen before\nAnd it will dawn on me,\nWhat had never crossed my mind.\n\nYou are the light \nIn this new era of mine,\nMay I now, \nTaste the forbidden fruit?",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-13T17:11:34.416Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:41:11.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f364b19edc29f1a6850c431"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-05-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Lasting Impressions",
+  "body": "When I first met your mom,\nShe at point blank told me that,\nI'm the kind of guy she would like for a son,\nBut wouldn't like meeting her daughter.\n\nWhen I first met you,\nOut of infatuation,\nI asked you out. \nTo be honest, \nI only wanted to see you naked.\n\nIn your first txt, \nYou asked if I was still coming, \nThat was my first, blind date.\n\nI confessed I had forgotten my wallet \nAnd you offered to pay, \nYou are the first brunette to have done so, \nAnd still kiss me, on a first date.\n\nWhen I received your first call,\nI did yell, 'Is that you Nicole?'\nThat's when I first heard you \nRaise your voice.\nI still managed to come to your place \nAnd apologise.\n\nWhen you told me \nAbout your last relationship, \nI swear, \nI was going to tell you of my next, \nHad I not seen that,\nYou had already taken off your clothes.\n\nLast night was our first together, \nTo be honest, I'll be back for more.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-14T08:28:09.874Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:41:49.663Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38337fd6d2dc113054c462"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-06-21T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Musi Wacho Ndakaruza",
+  "body": "Akandipa mibvunzo minomwe:\n  1.  Ungadire munhu chimiro here kana kuti \n      mwoyo wake?\n  2.  Uno tenda mu kuwira mu rudo here \n      kana ku kura mu rudo?\n  3.  Ungavimbe ne munhu ne hupenyu \n      hwako here?\n  4.  Chii chino kupa hukoshwa?\n  5.  Ungafambidzane ne mukadzi ne kuda \n      kwe lula-lula here kana kuti rudo?\n  6.  Zvino ku torera nguva yaka reba sei, \n      ku ziva kuti unopindirana ne munhukadzi?\n  7.  Uno tarisirei mu kudyidzana kwedu?\n\nNdaka pindura mibvunzo iyi \nNdaka tendeka kwandiri, \nUye ndika tendekawo kwaari.\n\nNdakachizomu-bvunzawo:\n  1.  Kana uchikwanisa ucha here?\n  2.  Ucha tendeka kwauri here?\n  3.  Uchava shamwari yangu yepa mwoyo here?\n  4.  Ucha vimba neni ne hupenyu hwako here?\n  5.  Uchava amai vakanaka ku vana vedu here?\n  6.  Uchandi batsirawo kuti tidhonze here?\n  7.  Kana uineni hapana chaunotya handiti?\n\nKana wapindura 'hongu' \nKu mibvunzo yese iri pa musoro apa\nNgatiroorane?\n\nI believed her, and believed in her;\nShe too was honest with herself and with me,\nAsi ndaka wana zvandinoda \n  Mu munhu asingandide,\nlyewo aka wana zvaasingade, \n  Mu munhu waanoda.\n\nWe both walked away, and moved on\nWhether it was 'noted' or endorsed,\nWhenever I looked over my shoulder, she too\nWas looking over her shoulder.\nWomen, can't live with them, \n  can't live without them!\nHas it always been like this?\n\nTakazosangana, mushure me makore \n  matanhatu\nAnd it did not pass me, \n  for when we shook hands, she\nTook a glance, at that left finger of mine\nE\nN\nD\nA new ending, we authored that day...",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f3834e0d6d2dc113054c465"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-08-15T19:17:52.291Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-15T19:17:52.291Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-15T19:11:59.897Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:24:59.482Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "5f39abb71022701838ab41ea"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2012-11-30T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Thank You",
+  "body": "For listening,\nFor paying attention,\nFor sparing a thought,\nFor taking your time,\nFor a nice conversation, and\nFor being true.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T21:57:11.745Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-14T14:45:58.872Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5f39ae0d1022701838ab41eb"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-09-07T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Ndangariro Ne Fungidziro",
+  "body": "Zvimwe nde zvimwe,\nAsi na Ivy taidanana,\nWe shared almost everything\nTo say, but the least.\nPerhaps, it were only the same parents\nWe did not share.\n\nInterests, we had the same, \nAifarirawo ku rara and \nTairarira mazai e huku. \nWe would chat for hours\nIncubating them.\n\nIt was not always,\nWhen we talked sense,\nNdaiti ndikamu kunda pa nharo dze\n'Huku ne zai,' se muenzaniso,\nAipedzisira ati,\n'You have mastered the art of talking,\nWithout really saying anything.'\n\nI remember particularly this day, \nNdakamuti, \n'Une nharo iwewe!' \n\nIye akati, \n'Kwete, handina nharo,\n Iwe ndiwe une nharo,\n Nekuti uri kundiitisa nharo,\n Kudai ndiri ndega ndisiri kumboita nharo.'\n\nWhen nature called,\nWe could use the same condom together,\nAnd it was obvious,\nWe exchanged bodily fluids,\nCause we used,\nThe same toothbrush.\n\nHameno kuti chii chakazongoitika, \n'Cause I found myself regretting, \n‘I should have cheated,’ \nOh yes, with her gay brother.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T22:07:09.720Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-07T16:22:01.285Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f39aed91022701838ab41ed"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2008-07-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Your Mind",
+  "body": "I once told you that, 'I love you' \nI'm sure, you still have this \nIn your mind.\n\nI wish to show you some kindness, \nBut, do I really ever, \nCross your mind?\n\nI know one day I will win you heart, \nBut, I have to go \nThrough your mind.\n\nThereafter, I will always be by your side, \nThat you may have the peace \nOf your mind.\n\nBy fate, I may again be out of your heart, \nBut, may I always be \nIn your mind\n\nIf you can't make the decision \nWith your heart, please do so \nWith your mind.\n\nI pray that you digest this, \nSlowly and with the soundness \nOf your mind.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T22:10:33.838Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:48:18.926Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f39afad1022701838ab41f0"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-07-10T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "A Rare Gem",
+  "body": "When I found a rare gem,\nA black diamond,\nSomebody spoke to me,\n\n“I don't see many folks around here, \n But if I do, \n I grant them three wishes.\"\n\n'I only have one wish to make,'\n\nI said,\n\n'May I religiously;\n  1.  Keep my New Year resolutions,\n  2.  Lead a healthy lifestyle, and \n  3.  Study hard.\n\nSo that I may be smart and strong, \nThat I may for long, \nLook at, care for and take care of,\nMy rare gem.'",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T22:14:05.480Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:50:45.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39b1141022701838ab41f2"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-07-27T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "No Woman, No Cry",
+  "body": "I thought I was smarter,\nI sought to be wiser,\nI resorted to solitude,\nWhat really matters, I discovered.\n\nI then was more prepared,\nSo I married,\nWhen I was ready,\nWhen I had peace, or\nThen I had peace?\nInner peace...",
+  "chapter": 3,
+  "price": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T22:20:04.163Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:51:33.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39b3131022701838ab41f3"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2014-12-27T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Unleavened Pizza",
+  "body": "I was half way on this journey\nWhen the bus had to pull over\nBy the roadside\nJust in front of one food court\n\nI needed a pizza\nThe best they had to offer\nSo I ordered the Chivi Style\nDouble cheese and double chicken\n\nI needed only to wait 6 minutes\nThen I would have it\nThe steaming medium\nAll for my good pleasure\n\nOnly after about a minute\nDid the bus driver start his engine\nAnd drove away\nLeaving me to the mercy of fate\nFor so I thought\n\nWhen I saw him drive away\nI forgot ‘bout the pizza I had ordered\nAnd as unheard of as it was\nA rock bun on the counter \nOffered itself to me\n‘I love you, you can have me instead’\n\nMy hunches told me I was getting lost\nBut even the lost are found wani\nSo I said, ‘Ok’ \n\nAnd the bun said\n‘Take me or I leave you’\n\n‘Hey! That's kind of pushy\nDon't you think?’\nI thought to myself\n‘And you better be good \nAs you are claiming.’\n\nSo as I ran out\nI grabbed the rock bun from the counter\nLeft a dollar \nAnd did not wait for my receipt\n\n‘Where do I find \nThe nearest car-hire services?’\nI asked an old man doing some landscaping\n\n‘Son,’\nHe began,\n\n‘Why don't u wait, \nOnly a few minutes,\nAnd give some thought to it, again.’\n\n‘Why should I?\nI retorted angrily\n\n‘Cause I know the driver’\nMy old man replied.\n\nSo I stood there\nLike a roman statue\nThinking of my next move\nOh, I was holding a bun\nI took a bite; \nDon't remember what it tasted like\nI must have looked heavenwards\nAs I munched\n\nAnd when I lowered my head\nThat's when I saw it\nWhat was really happening\nNdakazvishora amana.\n\nThe driver had gone to pump in\nSome more fuel\nWhilst we were being served\nFuck it, unotaurawo ka.\n\nBarely three minutes had passed\nWhen the rock bun started making some noises\n\n‘Hey bozo!\nThat's not how you eat me\nYou must really cherish me and\nButter me; left right and centre \nKana wanga usingandide wakanditorerei’\n\nKana nemi kuitawo here \nKuzvimbirwa ne rokobhanzi rakati ndiridye\nPaine vanhu;\nVehukama kunyangwe vatorwa?\nSo I gravely cautioned it,\n\nDon't ever, ever do that again, ever!\nNot even in private,\nUnless you mean for me\nTo feed you to the rats\n\nWhen I checked on the tills again,\nMy order was ready\nAnd awaiting my collection\n\nDamn!\nShe's was soo good\nSo steaming hot\nSo fucking delicious\n\nI was savouring my meal;\nThe sweet aroma was to my delight\nI imagined myself licking away all the juices\nAnd putting it in, nicely and slowly\n\nShe seemed to read my thoughts \nFor she made herself look her best\nTo kill me with appetite and desire\nI don't mind, you're mine\n\nThe rock bun then went berserk\nAmong other hostile and incessant\nVerbal attacks and harassment, \nSued me for not paying \nFor her bread bin\nWhen she was not a victim, \nBut the perpetrator.\n\nI had to see the merchandiser myself\nAnd advise him of the bad blood \nBetween me and his product\nAnd the inevitable death of whatever \nThe relationship was between me and it.\nHe scorned at me\n‘Look at you...’\n\nOkay never mind.\n\nWhen he failed to accept it\nThe token of divorce\nI threw it in his yard\nAnd walked away and never looked back\n\nHe had heard me\nThat was the point\nI conceded to the fact that\nI had to pay for the packaging \nThat I had shredded from his product\n\nHad the rock bun been modest\nPerhaps one day \nI was gonna write about\nThe ‘rock bun’ which the diner rejected…",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T22:28:35.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T20:59:41.098Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39ba8e1022701838ab41f4"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2009-08-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Just For You",
+  "body": "Like my sister,\nI will respect you \nLike my brother, \nI will love you.\n\nLike my mother, \nI will honour you \nLike with my father, \nWe will share the same blood.\n\nLike with my friends, \nWe will have fun \nLike myself, \nI will know you",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:00:30.527Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:00:14.472Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39bb131022701838ab41f5"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-09-26T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Kunewe Mudzimai Wangu",
+  "body": "We are a team\nOur coach and club owner is The Most High\nOur opponent is the world\nThe field is marriage\n\nThere are roles we can swap at times\nBut there are roles we can’t swap\nNdinogona kutorerwa bhora\nIn such times you will have to do your best \nKuti ridzoke futi kwatiri\nUkatorerwa I’ll do my best to get it back\nWhereas you can criticize me\nYou cannot question my captaincy\nI am your confidante and close friend \nI will never substitute you [again,] \nAnd wish you could say the same for me \n\nI want you to know that \nYou will get exhausted at times, \nAnd in such times \nI will draw the opponents away from you, \nWhen I do get exhausted, \nMay you do your best to shield me too?\n\nTinogona kugohweswa sometimes, \nAnd lose some matches too\nBut that’s not the end of it \nAt the end of the season\nWe should be log leaders \nAnd bring home the cup\n\nAs we progress, \nTichazovawo ne our junior players, \nWe teach them by good examples, \nOr they have to learn from our mistakes. \nWe might not be in agreement always, \nBut remember we must do our best \nTo win all matches, \nThere is a very great reward \nTo be earned for the whole team. \n\nWe have supporters\nThey may shout anything\nGood or bad, timeously or randomly\nKnow that they are not informed as we are\nAnd don’t hate or hurt your fellow player\nJust to please them \nIn their presence I will support you\nEven when you are wrong\nOnly when we are at our camp\nWill I rebuke you\nWe may even fight\nBut know that I don’t mean to hurt you\nOr to shame you\n\nThen we have gamblers\nSome bet for us some against us\nTheir fates is none of our concern\nBut ours is theirs \nAs such they are more than willing \nTo throw anything at us\nPull any strings for and against us\nJust to see to their ends\nThese are more dangerous\nThan our opponents on the field\nOur loyalty is with this club\nWe are a family\nThe work of a master coach\nWho knows his job description\nAnd does it for the love\nYes, for the love of the game \n\nI am saying this\nBecause I have played in this field before\nSo you may have to trust me \nMore than you did before.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f7da4bae2565c2234053a7c"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-10-07T11:21:30.213Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-07T11:21:30.213Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:02:43.729Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:21:30.214Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f39bbd81022701838ab41f6"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-09-30T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Usazoti Handina Kukuudza",
+  "body": "Once in a while,\nInvite my mom for the weekend,\nShe might really desire to visit us,\nAsi zvovaomera kungouya.\nUkavakoka uriwe she’ll really\nFeel more welcome.\n\nImagine her telling her friends,\n‘Asikana, weekend ndinenge ndisipo,\nNdirikuenda kumba kwe muroora wangu.’\nKana ukadai shah,\nNdinonyatsotiwo\n‘Apa ndakazoroora mudzimai kwaye.’\n\nKuti uwane favour ya amai vangu,\nPavanotishanyira,\nYou can serve her virtually any dish,\nAsi rangarira kasadza ne lacto.\n\nGenerally,\nGogo havadi vana vanotambira mumba, \nEspecially muine vaenzi.\nWozoudza vana kuti,\n‘Kana tazoenda kwa gogo Gatsi,\n Mukapunza ma vase avo,\n Kana kutsika maruva avo hameno zvenyu.’ \n\nPatinovashanyira,\nYou can buy her a lil present\nThough she appreciates it more \nWhen it’s hard cash.\n\nTip for the day,\nPerhaps the best present\nYou’ll ever buy her is a bible,\nA hard cover NKJV in large print.\n\nKana vachizogadzira yard yavo uripo,\nYou can offer your hand,\nBut if she doesn’t ask you for it,\nNever disturb a grain of sand.\n\nUsazombogara kumba kwavo,\nFor more than three days,\nUnless she has requested you to.\nBut still, know when to leave\n\nUsazoti handina kukuudza,\nKana uchida kuwana favour ya baba vangu,\nPota uchinorima ku munda kwavo,\nIf he asks you kuti ndiripi, answer\n\"Father, I'm the labour and\nWith these other inputs together\nMy king has sent me.\"",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:06:00.036Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-09T17:16:07.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39be731022701838ab41f7"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-04-30T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "They Said It",
+  "body": "Summer said, \n\"I'm man's favourite, \n‘Cause I'm the most bright, \nIn my time many go on vacation;\nThey bath in my sun, \nFor that beautiful tan; \nFor your own information,\nIn the southern hemisphere\nI have the rain \nAnd am dry in the northern. \nIsn't that, the perfection of beauty?\"\n\n\"If you are so perfect,\" \nAutumn began,\n\n\"Why then does man put on sun cream?\nMy touch is Midas.' \nConsider the golden look\nI give to the landscape,\nTake a stroll in my morning,\nStepping onto rotting foliage,\nWhen the sun streams its blistering rays \nOn the dew, \nCreating a kaleidoscope of color, \nAnd the breeze caresses and\nWith it carries,\nThe fresh aroma of nature.\nEven the blind agree, \nI'm the definition of beauty\"\n\n\"How about in the rest of the day?\" \nWinter demanded,\n\n\"In my time, \nI draw lovers closer together,\nThe true meaning of family is embraced.\nThe newly weds, about their partners,\nDiscover more;\nSo, \nWhether you go skiing with your love,\nOr choose to sit by granny's side,\nBy the fire on rocking chairs, \nYou’ll still add, a day to your life. \nAsk the northern hemisphereans,\nMy Christmas is second to none.\"\n\n\"As if birds don't migrate, \nAnd bears don't hibernate,\"\nSpring retorted,\n\n\"I'm the youngest and too, the loveliest.\nI come with warmth \nAnd am embraced by all.\nFrozen lakes once again teem with life; \nAt long last, trees put on new leaves, \nAnd the undergrowth\nFallen victim to frost regenerate,\nThey flower\nAnd give a pleasant fragrance,\nBirds and butterflies thrive,\nEven the Creator,\nWhen He looked at me, \nHe saw that, \nWhat He had made was good. \nIndeed I am, The Spring of Beauty.\"\n\n\"Knock it off!\" \nMother Nature rebuked,\n\n\"You're all my children, I love you\nAnd delight in your differences, \nYou’re all beautiful.\"\n\nWhen I heard this, \nI smiled as I thought to myself,\n'My better half is even more beautiful\nThan them, brought together.'\n\nThe sun read my thought and said to me,\n\n\"I wish your queen had heard that,\" \nHe went on to say,\n\n\"You never cease to amaze me.\nNot so long ago,\nYou used to think that\nI moved round your world,\nNow you're this smart? \nIf I didn't mean a lot to Mother Nature,\nI would have long ago taken a break, \nAnd with you, go on a date.\"",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f5e88a258e1661230e2ccc2"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-13T21:01:22.938Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-13T21:01:22.938Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:17:07.058Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:01:30.817Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f39bf691022701838ab41f8"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-06-24T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "When I First Met Your Mother",
+  "body": "“Hello young lady, \nWould you mind, \nTaking a li'l compliment?”\n\n“Mmm!? I wouldn't”\n\n“Well, you're cute”\n\n“Oh, I appreciate”\n\n“Then you should take some time, \n To listen to some tale” \n\n“Mmm, Let's hear it?”\n\n“Perhaps in the morning, \n Is the best time, this Sunday”\n\n“Are you asking me out?”\n\n“If it's working, yeah”\n\n“Well, como te chamus senor?”\n\n“Chamo me Tatenda, e voce?”\n\n“Chichi, 0883 749 299,\nI had nothing on my schedule”\n\n“Then I guess it has worked.”",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:21:13.512Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:05:37.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39c0531022701838ab41f9"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-06-24T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "When I First Met Your Father",
+  "body": "When I First Met Your Father $1.00\n“I thought, there comes another loser,\nBut the way he got my attention,\nMade me curious and he actually won\nWithout me feeling defeated.\n\nThat Sunday,\nHe picked me at my place, \nAround 0900\nWe travelled to Masvingo e Zimbabwe,\nI could say he was the best guy,\nI mean guide I'd ever had,\n‘Cause he told me of the area,\nThe history, the geography and the ecology.\n\nFor the next two weeks,\nI learnt,\nYour father was just like any average guy;\nHe watched porn,\nPartied with his friends every weekend,\nHad a decent job and an apartment.\nAlso was always abreast with the current affairs.\n\nI could say he was also street smart cause;\n  1.  He knew how to talk himself\n      Into and out of a conversation,\n\n  2.  He got me speaking out the things\n      He wanted to know without asking,\nIf he did,\nHe asked just the right questions and\nIn the right order,\n\n  3.  ‘Cause he could think on his feet,\n       He could get any girl off her feet,\n       I see, you have inherited that,\n\nHad it not been for his success,\nHe could have been certified insane.”\n\n“Ndanzwa zvese zvamanga muchitaura”\n\n“Ah, mudiwa...”\n\n“Mhamha vanga vachitiudza nezve\n Favourite verse yenyu, Proverbs 4 vs. 23\n\n ‘Chengeta mwoyo wako kupfuura\n Zvose zvingarindwa, nekuti mauri\n Mune zvitubu zve hupenyu.’”",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:25:07.947Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:18:27.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39c3c71022701838ab41fa"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-04-30T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "When My Son Will Ask",
+  "body": "What will I say, \nWhen my son will spill\nHis glass of milk at breakfast;\n  ‘Oh I see, \n  Your cup runneth over my son.’\n\nWhat am I gonna say, \nWhen my son will be learning the bike;\n  ‘Sonny, even if a determined young man\n  May fall seven times,\n  He will still rise.’\n\nWhat will I say, \nWhen my son will ask me,\nWhat it feels like having sex;\n  ‘You know what boy? \n  When I was your age\n  I also asked the same sort of questions.’\n\nWhat am I gonna say, \nWhen my son will ask,\n  ‘Daddy,\n  Was mommy your first girlfriend?’\n\nI’ll answer, \n  ‘My Prince, Her Majesty the Queen,\n  Taught me what love was really about.’\n\nWhat will I say,\nWhen my son will tell me \nHe has a girlfriend,\nFor the first time;\n  ‘Mpfana, \n  Vasikana venyu imimi havasati vazvarwa.’\n\nWhat am I gonna say,\nWhen my son will \nTell his teacher to shut up;\n  ‘Changamire, \n  Hamusirimi mega munogona kushatirwa, \n  Pane vanoshatirwa kukudarikai.’\n\nWhat will I say,\nWhen my son will make this remark,\n  ‘I resemble mama more than you.’\n\n  ‘Shamari, it's fine with me,\n  So long as I'm sure kuti, \n  I broke her hymen.’\n\n  “Mommy, what is a hymen?”",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f494d3400d5c8132cfcbdbf"
+      },
+      "liker": {
+        "$oid": "5f47c9401d4fce04404d8159"
+      },
+      "createdAt": {
+        "$date": "2020-08-28T18:30:12.331Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-28T18:30:12.331Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:39:51.583Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:29:39.513Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5f39c5801022701838ab41fc"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2011-02-28T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Go into the world",
+  "body": "Eat, drink, love, sleep\n\nTry, dare, risk, fight\n\nUnderstand, believe, prove, suggest\n\nPerceive, give, prosper and teach to.\n\n\nNurse, nurture, admire, appreciate\n\nOh, and don’t forget to laugh;\n\nWhen you finally return, \n\n  Come back, my son",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:47:12.162Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:32:49.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f39c82e1022701838ab41fe"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-06-30T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Lily-Lily Lely",
+  "body": "Like a well-watered garden,\nI couldn’t help the urge to be around you;\nLike a wonderful childhood Christmas,\nYou are the best that I’ve ever had. \n\nLike winning in a game of chance,\nI couldn’t understand how you fell for me;\nLike the soft rain on a parched surface,\nYou raised my hopes;\n\nLike a fairy-tale princess,\nEverybody hoped for the best for you;\nLike a classic folktale,\nYour taste was just enchanting;\n\nJust like home,\nThere will never be anyone like you;\nLike an old saying,\nYour cut shall be the deepest;\n\nLike the sun,\nI felt your warmth from a distance;\nLike breast milk, \nYou nourished us, who delighted in you;\n\nLike a fossil,\nYour memories shall forever be stocked\nIn the chambers of my soul;\n\nLike a wonderful dream,\nI wish to have you again, and for real\nMAY YOU REST IN PEACE NANA...",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-16T23:58:38.079Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:33:25.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3a6dacbfd530217091c934"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2008-07-31T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Your Name",
+  "body": "I wrote your name on the sand,\nBut the wind swept it away;\nI engraved it on the bark,\nOf a forest tree,\nBut wild fires consumed it;\n\nWhen I carved it,\nOn balancing rocks,\nThe rain weathered it away;\nWhen I impressed it on an iron pillar,\nRust wore it away;\n\nAt one time \nI wrote it on the sea,\nBut the waves tossed it away;\nI can never forget you, \nBut how where they to remember you?\n \nThe best I did to preserve it;\nWas to engrave it \nOn my heart’s tablet;\nHopefully, and maybe only there\nWas it meant, eternally to be...",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-17T11:44:44.507Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:33:43.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3a6e20bfd530217091c935"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2009-01-01T00:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "But You",
+  "body": "You were the first \nTo appreciate my love, \nAnd you are the only one \nI initiated to womanhood.\n \nYou became the first \nTo give me a heart break \nAnd you returned to me the first.\nI'm proud of you, \n\nYou are good looking, you look at\nThe brighter side of things\nAnd you always get the best in life,\nI love you.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-17T11:46:40.328Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:34:13.550Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3a6f9dbfd530217091c936"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2012-04-10T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Maungira E Runyararo",
+  "body": "Pauchanzwa izwi nyoro richikuti, \n  'Mufaro mhoro,' \n\nNdichange ndiri ini.\n  Dhidhi\n\nUchatarisa chiringazuva \nPamwe ugotadza kugutsikana, \n  'Kunze kwadoka zvekare, ndichiitei?' \n  Dhidhi\n\nUnosvika kumba wozvitarisa mugirazi,\n  Ndichakuti, \n  'Wakanaka, ndiwe shasha yacho.'\n  Dhidhi\n\nMu meso angu \nUchaona zvandinoreva kana achiti, \n  'Ndino kuda.'\n  Dhidhi\n\nNdinoyeuka musi uya, \nUchidzana mumba mako uri wega. \n\nNdakakuona ndika nyemwerera, \nNecho mu mwoyo ndikati kwandiri, \n  'Honai mwana wa VaShe.'\n\nNhare yako yakarira\nAsi hauna kuda kuitarira\nKusvikira yanyarara, wakaimirira.\n  Dhidhi\n\nPawakazotarisa wakaona ah, \nInga ndi secret admirer anga achingoti, \n  'Ndeip'\n  Dhidhi\n\nNdaivapo musi uyo,\nApo mukwezveri akatanga kukutsvetsva \nPawakanzwa chipfuva chako chichidziya. \n  Dhidhi\n\nNdaivapo zvekare musi uyo, \nApo wakamuudza, \n\n  \"I’m in.\"\n\nIye akakutsvoda pahuma ndokukumbundikira.\n\nKubva pamakadanana\nNdino ziva zvose zvamakaitirana,\nZvose zvamakatsidzirana\nZvaka chengeteka ndiinazvo,\nZiva, ndini hana yako.  \n  Dhidhi Dhidhi Dhidhi",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f5e929958e1661230e2ccc3"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-13T21:43:53.249Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-13T21:43:53.249Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-17T11:53:01.456Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:43:53.249Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f3a7108bfd530217091c937"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-02-08T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Black Widow",
+  "body": "I had been lost\nAnd there I was\nTryin to find myself\nNow I was helpless\nAnd it was slowly catching up\nDeath, a slow and painful one\nPainful in the sense that\nI was gonna watch myself wear away\nAnd I had ample time to consider \nWhere truly my heart lay\nThough she was never gonna hear of it\nHer name was gonna be the last\nOn my dry and bleeding lips\n\nHad it been alive\nMy unfortunate fate\nWould have been bearable\nIt was just a painful sting\nFeeling numb and then unconsciousness\nThen it would feast\nSuck up its meal\nBut there I was\nCaught in the web\nOf a dead spider\nI felt sorry for myself\nBut sympathy did not comfort\nAnd hope was slowly slipping\nOut of my reach\n\nYet I still had hope that\nOur love was alive\nIt was at this moment\nWhen I remembered those words that\n  ‘...whoever shall call on the name of\n  Yhwh on that day shall be saved’\n\nThat I also remembered\nHis words that\n  ‘The Spirit of the Lord is upon me...’\n\nThe day my son said for the first time\n  ‘Baba’\n\nIs the day I woke up\nThere was this loud beeping\nAnd my eyes blurry\nI could not move my body\nSave for the blinking only, maybe\nMy organ was also erect\nAnd I knew she was near\nThere was this angelic face\nLookin straight at me\nSmiling against the tears\nRolling down her cheeks\nI could not remember her\nBut the face looked very very familiar.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-17T11:59:04.287Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T21:44:58.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3b9400ab35bc14fc2d00c0"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2013-10-22T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Chapter",
+  "body": "I know,\nThere are fundamental human rights,\nThen there are conjugal rights,\nThe former comes first and prevails\nOver and above any other rights.\n\nIf I may wish,\nOh yes I wish myself the best of luck\nIf only you had stayed by my side, \nThis could have worked.\nHow I always fantasized about it,\nWalking down life'’s highway \nWith my Queen, side by side\nFord rivers together,\nSail across oceans and \nSwim together against the current,\nShoot for the stars and\nVenture into uncharted territory\nArm in arm.\n\nI never left\nIn a jovial mood,\nI never wanted to leave,\nBut to live,\n\nI'll always remember, \nThat first day,\nWhen I had the taste of your breast,\nWe slept and I never dreamed of leaving,\nBut when I woke up \nYou were pushing and shoving me away\nThe black widow way.\n\nWhy I left,\nIn silence and without closing the door,\nAnd never looked back?\nI was bitter, 'cause always\nI had to give in to your demands,\nAnd let you win \nEven when I was on the right\nAs if I've no rights.\nKunewe muramu wangu,\nPanorairwa sisi newe teererawo\n\nHandidyire huroyi kunyara and will not \nSacrifice my liberty for a nice fuck.\nThe preacher once taught, \n  ‘A woman was made from a man's side,\n  To be loved and protected;\n  Not from the head,\n  To dominate and prevail \n  Over her husband...’ \nThat I bought.\n\nForget, \nWill you? That I was never the one \nTo talk much.\nBut of cause I could be heard or read,\nYou could have literally read my thoughts,\n'Cause I always jotted something down.\n\nThat once,\nI read to you the book of Esther, \nCouldn’t you abhor the fate of Vashti?\n  ‘My Queen,’ \nThat was my address to you,\nIf only my Queen, \nWho was called by my name,\nCould have humbled herself...\n\nYou were the envy of many\nAll you had to do was to accept me \nAs your king and not challenge the crown.\nYou said in your heart,\n  ‘I will make myself the supreme power \n  In this kingdom, I will make myself \n  More glorious than this 'dog,'\n  I'm untouchable.’\nBut see, how you have fallen.\n\nBut I must admit, \nI may look back, though my focus is ahead.\nThis advice must make you a better person,\nIn your next chapter;\n  “To every problem there's a solution,\nAnd using the right formula is half it.”\n'Cause you mobilised an army with you, \nAnd made a public declaration of war;\nI'm taking no prisoners, \nAll of you are going down.\nHowever, \nIf I see your tears on the door post,\nI will Passover you.\n\nI'm back in the game,\nTo all my fans and fellow comrades\nTell dem,\n  ‘Makanonokera Colgate, akatoora.’\nThat was just a chapter of my life,\nAnd could have been the best,\n'Cause indeed, \nI had quit the game\nAnd had made a commitment\nOr so I thought,\nWhat a sacrifice I had made.\n\nThis could have been avoided,\nI have to go, \nThat your comforter may come.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-18T08:40:32.183Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:22:53.508Z"
+  },
+  "__v": 10
+},{
+  "_id": {
+    "$oid": "5f3b9551ab35bc14fc2d00c1"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-01-14T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Ark of the Covenant",
+  "body": "We were there in the ark\nOur hearts, cooing and confessing\nTo one another \nIn love’s perfect harmony\nAs we rose above the waters\n\nIt is this orchestra, this drama:\nThe rhythm of our motion\nOur deed and intent\nThe beating of the rains\nAnd the aura of that which is true \nAnd divine\nThat caught the Creator’s attention\nI know He said something in His heart, \nHe blessed us,\nFor us He made that which is true \nAnd divine \nTo be forever.\n\nThe rains stopped\nAnd the waters receded\nI left her among hostile species\nFor we were back to the old order\nThought I was gonna find\nJust the perfect nesting spot \nBy myself.\nTo and fro\nBack and forth\nUp and down\nRound and round\nThere was none.\n\nSo I returned\nMiserable, wretched and impoverished\nFeathers falling off my itchy skin\nI returned to the ark\nPerfectly resting on Ararat.\nDidn’t expect to find life\nNot even the meanest bacteria.\n\nBut there she was\nFacing the east\nBeholding the dawn of a brighter day\nWith an olive branch in her virgin lips.\n\nI landed\nWalked towards her\nCautious of my steps\nLest I might give her a fright\nYet, when I looked in her eyes \nHer soul was just as pure \nAs when we first met.\nBoldly enough, \nI took from her \nThe peace offering\nAnd what had I to give her?\nNo, not an explanation\nIf I failed the test of true love\nThen sincere gratitude, maybe.\n\n“Yacie, we can make this ark our nest.”",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-18T08:46:09.533Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:23:48.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3bcbe0ab35bc14fc2d00c2"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2014-10-18T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Counting Blessing",
+  "body": "I remember the day \nWhen you were born\n16 June 2015\nWhen my life got its fulfilment\nAnd my days became like the noon day\nAnd my hope became complete\nAnd my vision got a prince\nAnd an heir to the throne\nYou guessed right\nThe first thing I checked was\nAre you a son?\n\nI remember, that very moment\nWhen I gave you a name\nAnd you gave me one too\nI became a father\nI became a dad\nBecame a role model\nAnd became a hero\nAnd I declared\nNow I have become immortal\n\nI remember the day \nYour seed was planted\n19 September 2014\nThat day I also gave your mom\nA new name\nShe became a woman\nAnd the mother of my child, at last\nFor long, that I had desired\n\nIt started in the fall of 2011\nWhen she caught my eye\nAnd I got her attention\nI had to be cunning\nAnd she confessed I was\nFor she is no mediocre\nAnd one, am not even too\n\nIn the winter of the same year\nShe accepted that name\n'My love,' I had given her\nAnd it took a while \nBefore she acknowledged \nThere is something special\nOh yes, about our love\nI knew, it is true and divine, oh yeah\n\nQBI,\nThis is my son \nIn whom I am well pleased\nHear him",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f6240b9c281ca16bcf21d7c"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-16T16:43:37.711Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-16T16:43:37.711Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-18T12:38:56.245Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T16:45:31.063Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f3bceebab35bc14fc2d00c3"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-06-17T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "That Eucalyptus",
+  "body": "After I had finished the groundwork\nRight where I wanted it\nThe place I were to erect my house\nI planted dem two seeds\nOne I thot was a eucalyptus\nThe other am sho was a kind of shrub\n\nTheir nurturing was both as ambitious\nAs my home project\nIn her maturity, the tree\nI was gonna find my shade\nMy warmth, my medicine;\nA noble partner in my pleasure\nRest and fresh air\n\nFrom the shrub\nWould have had berries\nAnd too maybe a hedge\nRound my home\nBut if I ever needed a wind-break\nThat’ll be from that tree\n\nAs I nurtured them\nOne was obsessed with taking root\nThe other interested in making fruit\n\nThen a time came\nWhen I stopped all the watering\nAnd the nursing\nBut the occasional pruning\n\nGood for the eucalyptus\nShe had found her own water\nPure, pristine and perennial waters\nFrom an underground oasis\nShe continued to grow strong\nBeautiful, flowering and flourishing\n\nToo bad for the shrub\nThe fruit project ceased\nAnd she withered\nWithout a seed\n\nAm glad of you\nIf I nurture you, you flourish\nIf I don’t, you flourish\nWonder if you really need me too.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-18T12:51:55.285Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:25:07.423Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "5f3bd10fab35bc14fc2d00c4"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-02-15T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Touch",
+  "body": "“If two parts are destined to touch\nThe universe will always find a way \nTo make the connection\n\nEven when all hope is lost\nCertain ties cannot be broken...” -Touch\n\nPatakaenda ku Mvurwi\nNdakaona nhunzi ichinyenga \nMukono wenyuchi\n2 2nds zvakanga zvava mumukoko\n\nZvakamboedza kugadzira huchi\nAsi nyuchi nyangwe yaikwanisa \nKuita zviite yakaramba,\n\nMaybe nda'a nhunzi yaiva ne jende iyoyo.\nApa iri hadzi.\nZvimwe zvinhu hazvishande.\n\nNhunzi iya ya’akuda kudzidziswa\nKusveta nectar\nYakazoti ku nyuchi,\n‘Uri kunhuwa dhodhi iwe’\n\nThat's when the houseflywyf got it wrong.\n\nZvakazoendesana kwa mutongi gava\nNhunzi kwa'akuregera kuenda kudare\nMusi wacho\nGava kwa'akuti ku Nyuchi\n‘Pleada tinzwe,’\n\nNyuchi kwakungoti, \n‘Purpose’\n\n“What about purpose?”\nHonourable Gava begged for clarity\n\n‘Your honour,’\nThe bee began,\n‘My purpose is pollination ne \nKugadzira huchi\nNdikaramba ndiine nhunzi iyi\nAm afraid kuti I will soon learn\nPollution nekudya duzvi.\nTherefore it is my prayer that \nJustice be done\nBy your office by the dissolution of this\nUnfortunate loveless marriage of convenience.’\n\nThe judgement of Mr Gava was,\n  1.  'Clean break' divorce granted\n  2.  The bee, without fear or favour\n      Find, marry own suitable helper\n      By the next spring.\n  3.  The bee ibvise mombe ye manda\n      Kuvabereki venhunzi iyi\n      Since, nhunzi yacho yaiva mhandara.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f441d3a5a919a2170c45c2c"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-08-24T20:04:10.854Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-24T20:04:10.854Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-08-18T13:01:03.071Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:32:22.961Z"
+  },
+  "__v": 45
+},{
+  "_id": {
+    "$oid": "5f3bd294ab35bc14fc2d00c5"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2017-01-20T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Mama's Soliloquy",
+  "body": "He went to his\nLike a square peg in a round hole\nThey received him not\nBut to those who received him\nGave he the power \nThe right to bear sons of God\n\nOut you came\nWhen he ravished my ravine\nAfter he had promised only to explore\nExplore for the hidden treasures of tradition \nTreasures since time immemorial\nMaybe to peg also for possible sites \nTo begin exploitation\n\nConvincing he was, \nWhen he came \nWith his high powered delegation \nMarathon meetings we held\nThen we signed the fateful MOU\nI had sold my mineral reserves \nTo an enterprising foreigner\nGiving him exclusive mining rights \nTo my pristine richness\nWell-endowed mountains and valleys\nWell-watered gardens, \nAll plains and the fountains\nTill divorce do us part?\n\nYes he is good\nI had never known \nI could do all such things\nOr such good could come out of me\nI think I’m gonna be with him \nFor a very very long time\nYeah, ad olam.",
+  "chapter": 3,
+  "price": 1,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f4cf16b79aa4821006b2947"
+      },
+      "liker": {
+        "$oid": "5f3d637912ea800f9cc7685b"
+      },
+      "createdAt": {
+        "$date": "2020-08-31T12:47:39.799Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-31T12:47:39.799Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5f5a4967d78bcc11b42d0635"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-10T15:42:31.271Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-10T15:42:31.271Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "5f3ff0999e678f1b7844280d"
+      },
+      "rating": 3,
+      "comment": "Ndangokafarirawo aka",
+      "author": {
+        "$oid": "5f3d637912ea800f9cc7685b"
+      },
+      "createdAt": {
+        "$date": "2020-08-21T16:04:41.593Z"
+      },
+      "updatedAt": {
+        "$date": "2020-08-21T16:04:41.593Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-08-18T13:07:32.019Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-09T07:32:29.894Z"
+  },
+  "__v": 181
+},{
+  "_id": {
+    "$oid": "5f5539b7ef0cdc05e4fc98b8"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-02-06T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Handichazvipamha Futi",
+  "body": "Ndakabva hangu kubasa ndichifara,\nChaive Chishanu uye ndaiva ndatambira\nNdainyatsonzwa kuda mudzimai wangu\nSaka ndaka kasikawo kusvika kumba.\n\nNdichisvika ndakamuwana,\nWa VaChihera mwana, \nAkagara hake pasofa akabata shaya,\nMarara aitsvairwa akanga akazvigarirawo,\nNechekumusuwo.\n\nNdaisimbomuwana ageza,\nUye azvishongedza,\nApfeka nhumbi,\nDzaanogona kungopfekera ini chete,\nUye chikafu changu chava ready,\nAsi musi uyu, masamba aiva asiyana.\n\n‘Kwakanaka?’\nNdakabvunza\n\n‘Unozviziva!’\nAkapindura, muromo uri mumhuno,\n\n‘Ko, hauti vamwe maswera sei?’\nNdakaenderera mberi hangu,\n\n‘Iwe haugone kutanga kuti-sweresawo?’\nNdiyo mhinduro yandakapiwa,\n\n‘Kubata shaya kudaro hanzi chii?’\nNdakabvunza futi \nNdichingofunga kuti,\nAitamba hake neni nekuti \nPaari ma jokes aiva ari tii\n\n‘Ko kana ndirikufunga\n Murume wandakapa humhandara\n Unei nazvo!?\n\nPandakaona kuti nyaya\nKwayaiva yoenda\nNdoo kwakaipa,\nNdakabva ndaregera kufunga zvakadaro.",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:34:15.932Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:38:12.798Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f553a5eef0cdc05e4fc98b9"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-09-07T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Ndiani Wakati",
+  "body": "Wekutanga akanditi,\n‘This is my last life,\nAnd in all I’ve had,\nI have realised that,\nFrom the moment we start to live,\nThen do we also start to die.\nHow sad.’\n\nWechipiri akanditi,\n“Pavaindiona, vainditi \n‘Hero! Hero iro!’\nIpapo ndaibhururuka, \nNdoenda pavaindiona,\nAsi paisava nyore kuti vandikuvadze,\nNdaitsinzina ndovanamatira.\n\nNdakazviudza kuti,\nHandisi zvavanondidana,\nNdiri zvandinodaira kwazviri.\nNdainzwa vachinditi,\n‘Gamba iro.’\"\n\nWechitatu akanditi,\n“I would like to appreciate avo vainditi\n‘Man’s best friend,’\nKunyange vamwe vavo never really\nTreated me like one.",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:37:02.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:39:54.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f553b57ef0cdc05e4fc98ba"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2010-09-26T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "Even In the Rain",
+  "body": "They used to beat me up,\nAnd I got to know my father in their scolding,\nThey took me for cheap labour and\nTaught their children to despise us.\nImagine, a sixty year old man, \nHaving the IQ of a four year old, \nThat’s how they viewed us,\nThe blondes they love to hate.\nBut, who built the magnificent Great Zimbabwe.\n\nVano ziva here kuti riya ravanoti \n'Dombo ra Mwari' tisu takari vaka?\n\nThey oppressed opposition parties\nIn their bid to intimidate us, \nThey took the most beautiful of our women, \nAnd smashed our infants on rocks,\nSome they fed to crocs, \nThey were killing all male children\nAnd made us make bricks without straw,\nYaiva misodzi, dikita ne ropa,\nFor four hundred years.\nAsi ne gidi takaitora nyika yedu.\n\nIf it were not for them, \nWas there any need to erect a wall so great, \nStretching an amazing 1500 miles,\nVisible even from the moon.\nWe marched for 5000 miles, \nFrom Cape to Cairo. \nThey launched air strikes,\nWe still hear, \nThe echoes of the Hiroshima attack.\nI particularly remember that day,\nWhen we were crossing the Yangtze,\nIf it were not for our Red Army,\nWhich positioned itself over us,\nTingadai taka siya nyemba musi wacho.\n\nThey shot at our children, June 6\nI remember that young girl, \nWith a flaming torch; \nAnd only to erect a ninety metre tall statue. \nCome and see the tomb of our unknown soldiers, \nHeroes par excellence.\n\n‘Cause we wanted foreign troops off our soil,\nThey branded us a terrorist group, \nFirst came xenophobia\nThen Islamophobia, what for?\nWe were struck by a natural disaster,\nInstead of humanity, politics took precedence.\nI was so interested in their campaign, \n'War on Terror'\nBut the irony and the hypocrisy fed me up.\nHuori chaihwo.\n\nIt is like what Yacie once said,\n'A man steals, \nKills and slaughters your livestock.\nWhen you ask for compensation, \nlet alone an explanation,\nHe demands that you be vegan.’\n“That’s utter hogwash.”\n\nAfter all, \nThey sunk our ship in international waters,\nBombed our prestigious \nWorld Trade Centre, 9/11\nAnd still the more, \nWere taking our jobs, 'ama kwerekwere.'\n\nIf not us, \nWho was going to correct \nThe colonial imbalances?\nI will borrow these words, \n‘A slave who does not organize his own rebellion\nDeserves no pity for his lot.’ \nThat lesson alone would suffice.\nHence we embarked on the ever popular\nIrreversible Land Reform Program.\nChimurenga che chitatu.\n\nThey imposed, \nUnjustified economic sanctions on us, \nThe so called restrictive measures. \nIf change cannot come by evolution, \nShould it be brought about by revolution?\n\nDown with the New World Order, \nAs crafted by man. \nShe has fallen! She has fallen!\nBabylon the Great, \nThe mother of harlots. \nJust as a sling shot, \nWhen it starts losing momentum, \nAnd about to take its inevitable fall, so is she. \nWe asked her to apologise, \nFor her evil slave trade, \nShe refused, saying, \n'It was legal at the time...' \nIf so, don't preach to us about democracy. \nTell that to your marines.\n\nAka bvunza,\n'Ko ava ndevana ani, \nVaka pfeka nguo chena?' \n\nZvikanzi,\n'Ava ndivo vaya, vaka suka nguo dzavo, \nMu ropa re Gwayana.'\n\nUchange uri mumwe wavo here?\n\nWe might survive, \nThe next global crisis, \nAnd probably the next,\nBut how many do we have to face, until what? \n\nI know oh yes, \nI know I'll always bell these cats, \nOne after the other, \nLike what I've just done.\nAs long as I have opportunity, \nI'll do good,\nI'll live and let live, \nLove and let love.\nI have discovered, \nAnything done outside of love\nIs meant to dominate and/ or \nDisadvantage the other man.\n\nOh Zame, shanduraiwo nyika ino ive nani, \nTangai neni?\n\nBut I wonder:\nWho beheaded Marie Antoinette?\nWho inspired him to exterminate the Semites?\nAnd who shall speak of, \nThe persecution of the Ishmaelites?\nWhy assassinate Kennedy?\nWho's responsible, \nFor the demise of the mighty Rome,\nWhere's The Soviet Union?\nWho wanted my nation labelled an HIPC?\nWhy, when we died for this country?\n\nI forgive you, but will not forget\nAnd you'll never see me crying...",
+  "chapter": 4,
+  "price": 2,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:41:11.137Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:42:38.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f553c66ef0cdc05e4fc98bb"
+  },
+  "subheading": "When he was released from prison",
+  "image": "",
+  "datewritten": {
+    "$date": "2016-01-28T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Psalm Of Barabbas",
+  "body": "When he was released from prison\nI will tell of the decree: \nYahshua said unto me, \nThat day before Pilate, \n‘Thou art my son; \nThis day have I begotten thee. \nAsk of me, \nAnd I will give thee the nations \nFor thine inheritance, \nAnd the uttermost parts of the earth \nFor thy possession’\n\nAnd so for me was fulfilled \nThe words of Isaiah the prophet\nIndeed, \nIt is easier for heaven and earth to pass, \nThan for the tiniest bit of his word to fail\n\nNow your son stands among them \nWho washed their robes \nIn the blood of the Lamb, \nThey who didn’t love their lives \nEven unto death \nAnd have defeated the adversary \nBy His blood \nAnd by the word of their testimony.\n\nYour son is one of the many you redeemed,\nEven though he never knew who you were\nAt the time. \nI was in prison for treason \nAnd manslaughter, was arrogant and \nUnrepentant and was dying in my sins, \nBut you knew me even before I was formed \nIn my mother’s womb \nAnd loved me tenderly, \nI marvel at your saying, \n‘For all the hairs of your head are numbered…’ \n\nYou saved me and my enemies did not \nTriumph over me. \nI reluctantly accept the crown \nYou bestowed on me, though you say,\n‘Well done good and faithful servant…’\nBut it’s by your abundant grace\nThat I have been faithful over that very li'l.\nI was surrounded \nBy so great a cloud of witnesses \nAnd by your Holy Spirit I let go\nOf all the sin \nWhich so easily ensnared many. \nHosanna in the highest, \nThe King of kings and Lord of Lords.",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:45:42.552Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:44:37.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f553d46ef0cdc05e4fc98c3"
+  },
+  "subheading": "When he was fleeing Ririti Nyatene",
+  "image": "",
+  "datewritten": {
+    "$date": "2016-01-28T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Psalm of Tatenda Yah",
+  "body": "I have but one prayer \nTo you my sovereign ruler, \nI have but one desire \nPlease do not deny me. \nThis I ask of You, and it doesn’t matter \nWhether I have never existed or \nI live eternally; \nIt is that Your joy, peace, prosperity, grace,\nTruth, love, life and light reign supreme \nUpon Your Israel, \nThat the wedding feast of Your Lamb \nNot tarry anymore and that \nI be with my family.",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:49:26.908Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:51:31.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f553f00ef0cdc05e4fc98c5"
+  },
+  "subheading": "When He Escaped Laban",
+  "image": "",
+  "datewritten": {
+    "$date": "2016-01-28T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Psalm Of Jacob",
+  "body": "Who is better qualified\nTo proclaim of your goodness \nThan he who knows what it’s like\nTo sow in tears and reap in joy? \nHoly holy holy, \nThou art holy my Adonai\nYour servant delighted in you and\nYou gave him the desires of his heart,\nYou have redeemed him\nAnd shown him Your salvation \nIndeed, your promises are yes and amen\nMy Abba Father.\nI came of age in triumph\nLived, dwelt and rested in peace.\nMay all the power, glory, honour, dominion and\nBlessing be unto you my Elohim?",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T19:56:48.966Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:48:03.400Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5543efef0cdc05e4fc98c6"
+  },
+  "subheading": "To the music producer DJ QaC. The psalm he sang at the wedding feast of the Lamb and His bride",
+  "image": "",
+  "datewritten": {
+    "$date": "2016-01-21T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Psalm of Tatenda Yah: 2",
+  "body": "Yisrael of Yah went into slavery\nFor the Power of His mighty to be seen,\nThe chosen people by the mighty hand of Elohim\nWere delivered from pharaoh.\nYhwh, was with them in the desert, \nForty years being who He is to His people\nTeaching them His Torah.\nWe read in the Talmud\nOf His everlasting love for His people, \nAnd the power of His salvation, \nHis righteous judgement and \nHis enduring mercies.\n\nYisrael was enslaved and delivered\nFor the Torah to be written.\nFor You knew the plans\nYou had for our Fathers,\nPlans of hope and a future,\nOur fathers besought You\nWith all their heart and they found You.\nWhen their groaning came before You,\nYou left Your throne for their cause.\nThey were like they that dream, \nWhen Your highness turned away their captivity.\nOur sovereign ruler loves justice, And\nHates robbery with iniquity; \nYou gave us our recompense in truth, \nThen made the everlasting covenant with us.\nHow excellent is Your name, \nThe mighty one of Yacob,\nMay all the glory, power, dominion and\nHonour be unto You,\nOur echad Adonai \nFor ever and ever.\n\nYahshua came for the lost sheep of Yisrael\nTo find a bride for Himself\nHe wrote her the New Covenant\nWho believed our report? \nWhen we proclaimed in all the lands,\n‘To us a child is born\nTo us a son is given\nAnd the government will be\nUpon His shoulder,\nHim who gives beauty for ashes\nYahshua Ha Mashiach,\nPele-Joez El-Gibbor Abi-Ad Sar-Shalom.’\nHe paid for His bride by His blood\nCleared her debt and overcame death.\nThe bride sings,\n\n‘O death, where is thy sting? \nO grave, where is thy victory?’\n\nForever will He be with us\nBehold! His tabernacle is with us, and\nHe dwells with His bride, \nWe are His, and\nHe belongs to His bride, our God. \n\nLo!\nI wrote DOVA for you Huchi\nIt’s a family tradition.",
+  "chapter": 4,
+  "price": 1,
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T20:17:51.828Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:51:51.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5544b2ef0cdc05e4fc98c7"
+  },
+  "subheading": "",
+  "image": "",
+  "datewritten": {
+    "$date": "2015-09-09T22:00:00Z"
+  },
+  "label": "",
+  "featured": false,
+  "heading": "The Legend of BhagedhiNeHafu",
+  "body": "//Genesis begins//\nThe following text was obtained \nFrom the various Korekore oral traditions that survived, \nOf one of the most mysterious figures \nIn the history of the great land \nWhich we now call Zimbabwe. \nIt occurred before the builders \nOf the great Zimbabwe began \nThat half a century’s work.\n\nI have never seen [actually never heard] \nOf a man who divided opinion \nAs much as did this BhagedhiNeHafu.\n\nHowever, the poems herein are manuscripts\nWhich I unearthed in Bako ra Yacie, \nWhile I was digging \nFor the elusive evidence \nInto this BhagedhiNeHafu character.\nI managed to translate them \nFrom that old Shona dialect, \nSome into modern Shona and \nSome into English, \nWhichever seemed best fit \nTo convey the meaning and \nPreserve the style of the author. \nI hope I have done my best \nTo present them as clearly as possible, and\nIn a way that I hope BhagedhiNeHafu\nWould have approved of.\n\nBhagedhiNeHafu murume\nAiva wekwedu kuma Korekore uko, \nAisazivikanwa kuti akabva kupi, \nMukutaura kwake iye aiti \nAkangozvarwa akakura, \nAirima zvikuru asi aiva nenungo.\nChakanyanyopa mukurumbira \nKu murume uyu ndechokuti \nAiva nerimi re moto raaichengeta. \nRimi iri raigara richipfuta \nAsi hapana aiziva kuti rinorevei \nUye kuti rakabva kupi \nUye hapana akamubvunzawo nezvazvo\nWaakapindura zvinogutsa.\n\nMurume waidya hake iyeye, \nAipedza bhagedhi ne hafu \nNdokuti yake ipere. \nAiti kana achidya \nVamwe ndo vanenge vachizvimbirwa.\n\nMurume uyu akazobva kuma Korekore\nNdokuuya kuma Karanga, \nNdokubva adanana neimwe mhandara.\nMhandara iyi ndokumboedza\nKumunyengetedza kuti airoore \nAsi iye akaramba achiti\nNguva yaiva isati yakwana.\nVakabva vaparadzana havo\nNe mhandara yake iyi, \nBhagedhiNeHafu paakaedza\nKunyengetedza mhandara yake iyi \nKuti ivimbe naye, \nMhandara yacho yakaramba \nNdokubva yaenda kune imwe nyika irikure.\nBhagedhiNeHafu zvakamurwadza zvikuru,\nChipo chake chekurima \nNdokubva achisendeka. \nAkanga ava mushuzhi zvino.\n\nBhagedhiNeHafu achiri kushungurudzika \nAkabva asangana nerimwe svikiro rechikadzi,\nSvikiro iri rainzi Ririti Nyatene\nMwenga we Chirorodziva. \nSvikiro raiva ne matinji iroro amana;\nRakavimbisa BhagedhiNeHafu \nKurapa moyo yake, \nNdokumuudza kuti aita rombo rakanaka\nNekuti svikiro iri raivawo mhandara\nUye raiva roda kumboinzwawo \nIyoyi yakazadza nyika, \nRakabva ramuti atizire kubako kwaraigara.\nBhagedhiNeHafu akaita chisakaitwa,\nKwava kurifongoresa mubako imomo,\nAsi haana kuripa mbeu yake, \nHis seed was a preserve \nFor that ‘Daughter of Pedigree.’ \n\nChiriporipocho, iye ne svikiro iri\nVakabva vaita mutambo wekubatanidzwa,\nBhagedhiNeHafu ndokubva atangawo kunzi Sviviro. \n\n//Genesis ends//\n________________________________________\n//The Exodus begins//\nBhagedhiNeHafu, \nAbengenuka ndopaakazoda kutanga\nKurarama hupenyu hwake chaihwo,\nAchishandisawo chipo chake \nChaakapuwa na Zame. \nSvikiro riya ndokuti hapana iyoyo, \nTichadya zvatinopiwa nevanhu, \nUye ndini ndonzwa izwi reku Nyikadzimu\nSaka uchaita zvandinoda. \n\nBhagedhiNeHafu akazvidemba\nAkakungura kuti dai akangoita hake\n‘Chimhandara-maoko’ musi uya.\nNechomumwoyo aingoti \n‘Dai svikiro iri raiziva chiono charinodzivisa...’\n\nBhagedhiNeHafu akamboedza kuonesana\nNe svikiro iri paaiva akamira, \nAsi svikiro iri raingoona kunge\nRuzha rwe pwere, \nKusvikira musi uyo BhagedhiNeHafu\nAkabuda mubako umu. \nBhagedhiNeHafu akanga aona kuti\nAisazova baba mubako umu, \nKana kuonekwawo sa saimba.\nZvakava pachena kwaari kuti svikiro iri\nHarisi rumbabvu rwake, \nasi mumwe mutumbiwo \nUnotoda mbabvu yawo, \nNdosaka rainzi Ririti. \nNaizvozvo iye akaona pasina \nRamangwana rakajeka uye rine tariro \nSaka hoyo akabudawo neimwe ninga\nYakanga yakavanzika.\nNinga iyi yaiva dikisa zvekuti\nBhagedhiNeHafu akangokwanisa kubuda\nNe shashiko chete. \n\nZvadaro, akabvapo ndokunoita kamusasa\nMusango raiva mujinga megomo\nRaiva ne bako iri.\nSvikiro riya rakatevera rikanoparadza\nMusasa uya pamwe nekutora nyama yese\nYaaiva avedzenga. \nIzvi zvakaitika apo BhagedhiNeHafu\nAiva ambonotarisa mikoko yake.\n\nBhagedhiNeHafu achiri kanhambwe\nAkazviona kuti zve musasa hapachina\nAsi akangosvika hake\nNdokudzungudza musoro and in a way\nAs if he was silently saying,\n‘Saka ndozvawaireva nhai,\nPawakati haudye che bamba…’ \n\nBhagedhiNeHafu akatanga kufamba nesango, \nOtekaira, otekaira and began to waste away.\n//The Exodus Ends//\n________________________________________\n//Judges, Kings & Prophets begins//\nAchifamba nesango kudaro akabva asvika \nMu muzinda wa She vedunhu iri, \nIshe Makwavarara\n\nAchisvika muchivanze chake, \nimbwa dzakamumhanyira dzichida kunoruma, \nasi paya padzaiva dzoda kuruma\nDzakabva dzangoramba dzakashama,\nIshe kwava kudzidzingira kure.\nBhagedhiNeHafu akasvika rovira\nNaizvozvo achingamidzwa akapuwa pekurara\nNdokubva achizofumira kupira nyaya yake.\nBhagedhiNeHafu achipedza kudaro\nNdopaakaziviswa kuti,\n\n'Svikiro rawakatiza i hanzvadzi yangu.'\nIwe, pakaipa!\nZvisinei Ishe vakamuudzawo kuti \n‘Nyaya yako tichazoti toipinza mudare,\nKana kwaita jenaguru uye mhepo yaswera\nIsina kumbovhuvhuta musi wacho.’\nBhagedhiNeHafu’s condition continued\nTo deteriorate such that\nHe developed insomnia and \nIn the ensuing months he suffered from seizures\nAt his worst temporary amnesia.\nAkachangomirira kuti nyaya yake\nIpinde mudare,\nNyatene akauyawo achimhan'ara kuti,\nAkatizwa ne murume,\nNyaya ikapinda mudare pakarepo,\nNyatene kwava kunamata futi kuti\nBhagedhinehafu abvisiswe mbudzi yedare.\nBhagedhiNeHafu akatongerwa kuti\nMwedzi wega-wega apote achibvisa\nMombe inotsika papfuma yake\nAchipa svikiro riya,\nKusvikira raroorwa futi kana kuti rafa. \n\nNyatene asiiwa kudaro akabva aregera\nKukumbirira vanhu mvura, because\nBhagedhiNeHafu had become\nHer preoccupation,\nNekuti akanga atadza kumubira\nThat sacred flame kana mbeu yake,\nAkaona zve shayisano zviri nani.\nNaizvozvo akatanga kukumbira\nKu nyikadzimu kuti dutu huru rimuwane,\nAkungure chaakasiira bako rake. \n//Judges, Kings & Prophets ends//\n________________________________________\n//The New Covenant begins//\nOne day BhagedhiNeHafu fainted,\nIt would have been worse for him\nHad not fate intervened and\nIn that dramatic moment,\nSome women came to his aid;\nThe first shielded his flame\nFrom the raging winds,\nSave for sufficient oxygen only,\nThe orange smoky and flickering flame\nWas restored to its brilliant blue hue.\n\nThe second woman fed the fire and\nIt began gaining prominence,\nIts base grew,\nBecame hotter and brighter than before.\n\nThe third woman made a back-up fire,\nThough not as sacred. \n//The New Covenant Is Ever-living//\n________________________________________\n//The 2nd Exodus Begins: BNH Forgives Himself//\n\nIn the same year, \nWhile they were celebrating \nThe coming of the rain season, \nIshe Makwavarara overindulged himself, \nAnd in his stupor his half-brother killed him \nAnd ruled in his stead, \nThat was the end of Makwavarara’s dynasty.\n\nNyatene was not seen again, \nFor close to two years. \nThen BhagedhiNeHafu heard kuti \nNyatene akafira mudziva re Shurangwena,\nBut her remains were never found. \nBhagedhiNeHafu mukuziva kwake, \nDziva iri raisava ne ngwena naizvozvo \nKana Nyatene akanyura \nMapfupa ake aifanirwa kunge achiwanika \nPasi pedziva racho, \nNaizvozvo akanopinda mudziva umu \nNdokutanga kutsvaga.\n\nBhagedhiNeHafu achipinda mudziva umu, \nHaana kuzoonekwazve…\n\nMeanwhile there came drought \nAnd civil strife in all the land \nAnd there was none to consult \nThe spirit world on behalf of the people, \nNyatene was dead \nAnd the people were awaiting the return \nOf the spirit which was upon her.\n\nTo gain confidence of the people, \nAnd give them some hope of good fortunes. \nTumbuzviyo, Makwavarara’s half brother \nNow lord of Mahwehwe \nHad incest with his elder sister. \nTradition has it that, \nOn the day of the incest raiva jenaguru, \nUye mhepo yaiva isina kumbobvira\nYavhuvhuta zuva rese.\n\nMakunakuna aya aitwa Tumbuzviyo \nAkabva anyepera vanhu kuti \nHanzvadzi yake, \nMaidei ndiye ava homwe ya Tovera, \nMweya waisutsa Nyatene. \nNemusi we kuchingamidza kudzoka \nKwe mweya uyu, \nMaidei aiva akashongedzwa veduwee. \nMumusoro aiva ne korona \nYakagadzirwa ne sirivha, \nIine matombo matsvuku anokosha \nPamwe ne minhenga ye pikoko. \nBvudzi raiva, rakazorwa mafuta ainhuwira, \nNzeve dziine mhete dze goridhe, \nPaguma paine ndoro chena, \nZvitopora zvekumeso zvichinyatsooneka, \nMuhuro muine chuma chakagadzirwa ne\nMagirazi, ndarama, hurungudo,\nNemamwe matombo anokosha.\n\nBhagedhiNeHafu apinda mudziva muya, \nAkaona pasi pemvura paine rimwe bako, \nNdokupinda mubako imomo. \nMainhuwa veduwee. \nKunhuwa kwenyama yakaora chaiko. \nAkange atova mune imwe nyika nhorwa,\n\n“Mwenga wedziva urimo here?”\n\nBhagedhiNeHafu akabvunza \nAchitoenda kumberi, \nAsi hapana akamudaira. \nKumsoro kwe bako iri kwaiva ne matombo\nAkapinza uye emavara mapfumbu, \nMashava uye mamwe akaita kunge \nRuvara rwedenga mbichana, \nKu mativi kwe bako iri \nKwaiva neninga dzaingovhenganawo, \nInstinct told BhagedhiNeHafu kuti \nNyatene ari munzvimbo iyi, \nBut where to start searching, \nWas his challenge.\n\nNekugara kwaakamboita \nNa Nyatene mubako, \nAkanga asisavhundutswi nenzvimbo idzi, \nUye after all he had been through \nHe had somewhat metamorphosed, \nAt the instance of danger, \nHis survival instinct no longer gave him \nA dilemma of fight or flight, \nHe only had to fight. \nAkatsvaga kwe rinenge zuva rese \nPasina chaawana, \nKunze kwe tsvina ne mazerere. \nKuzoti zuva repiri roda kutopera zvekare, \nAkanzwa kunge kuuchira \nNechokumberi kwaaienda, \n\n“bu bu bu.” \n\nAkambomira achiteerera kuti anyatsonzwa \nKuti zvaibva nekupi, \nAsi maungira akamutadzisa \nKunyatsonzwa zvakanaka. \nAchangoti fambeyi, \nAkoona rimwe bako nechekurudyi kwake \nNdokubva apindamo. \nAkaona Nyatene akagara \nNechekuhuva yebako, \nAkazembera kunge akarukutika.\nBhagedhiNeHafu akataura akasunga chiso,\n\n“Iwe, ndauya kuzokuburitsa muno.”\n\nBhagedhiNeHafu akabva atanga\nKufamba achienda kwaari, \nAkangosvika ndokumubata ruoko\nNdokubva atanga kufamba naye \nVachidzokera kwaabva.\n\nVachifamba kudaro \nNyatene aingunorondedzera \nKuti zvakafamba sei \nKuti azova munzvimbo yakadai, \nUye aisaziva kuti kunze kwaakabva uko \nKwaiva kwatopera makore maviri, \nIye aifunga kuti agara mubako umu \nKwe masvondo maviri chete.\n\nVasvika kubako rekupedzisira kuti \nVachienda ku mvura nekubva vabuda mudziva, \nKaharabwa ke mukono we njuzu \nKakabva kasvika kachitoturawo hove \nNe magakandye zvakaiva kadzimba.\n\nMazamu ake aiva akangovharwawo zvishoma, \nKana kuti tongoti minyatso chete \nNdo yaiva yakavharwa,\nApa akanyatsozara \nKunge emunhu atotsika mwedzi. \nKubva muchiuno zvichidzika \nAive akapfeka hanzu yakarukwa \nNe miswe yamabhiza, uye iine zvuma\nZvakavhenganiswa uye zviri zvemavara ne \nMarudzi akasiyana-siyana. \n\nZvedi Maidei aiyevedza kutarisa\nZvokuti kana vari vanhurume\nVaingogutsurira chero pasina zvaataura. \nAchiona izvi, \nTumbuzviyo akafadzwa ne zano rake, \nChipi ne chipi chaizotaurwa \nNe hanzvadzi yake \nVanhu vake vaizoteerera. \nChakanga chasara ndechokuti \nHosha nenzara yaiva yapinda mudunhu\nYopedzwa sei, \nNokuti mvura yakapedzisira kunaya \nMusi uyo akagaro chigaro choushe.\n\nZvino nguva yakakwana yokuti \nMaidei achitaura kuvanhu kokutanga, \nAkasimuka paaiva akagara \nNdokusimudza maoko \nTo the wild applause of the mass.\n\nNyatene akabva aenda kumashure \nKwa BhagedhiNeHafu nokutya, \nBhagedhiNeHafu ndokubva atanga \nKufambisa achienda kuna Katsangamidzi, \nNdiro raiva zita re kamukarabwa aka. \nNyatene ndoo paakaona kuti \nBhagedhiNeHafu waaiziva uyauya haasiriye, \nNdoo paakabva kumashure \nKwa BhagedhiNeHafu oenda \nKumberi kwake onotaura naye,\n\n“Bhagedhi pliz, usamuuraye?”\n\nShe pled with him, \nBhagedhiNeHafu akabva ambomira \nAchiteerera zvaaitaura, \nAsi meso ake aiva kukakarabwa kaye.\n\n“Ukamuuraya dziva rinobva rapwa”\n\nBhagedhi took two deep breaths \nIn silence uye akatarisa pasi, \nPaakasimudza meso \nAkangobata Nyatene ruoko \nNdokubva atanga kufamba naye \nVakananga kumusiwo we bako iri, \nUko kwaiva kuine kamukarabwa kaye, \nIko kakangoramba kakamirawo \nKachi katyamadzwa. \n\nVakasvika pakaiva \nNdokubva BhagedhiNeHafu amira \nAkangokatarisa mumeso chete \nAsina chaakataura \nApa akanyatsosunga chiso, \nUyuwo Nyatene akanga opfikura, \nKatsangamidzi akadzuurira BhagedhiNeHafu nzira \nNdokubva vabuda.\n\n“Sorry hako Bhagedhi, \nndakaba mbeu yako,”\n\nNyatene akatanga kureurura, \nVabuda mumvura zvino.\n\n“Ndakatobata pamuviri,\n\nNdazoenda kuna Katsangamidzi \nKunosimbiswa ndipo paakandibata \nNdokubva andisunga, \nAkandibhinya kakawanda ndokubva ndasvodza, \nAkanditi ndaisafanira kuroorwa \nKana kubata mwana nebasa randaiita, \nUye ichokwadiwo, \nNdiwo mumwe muko wedu, asi asi…”\n\n‘Nyarara iwe,’\n\nBhagedhiNeHafu akamudaro.\n\n‘Teerera unzwe.’\n\nVakamira voteerera \nNdokunzwa ruzha rukuru kwavaienda \nKunge kwaiva ne hondo chaiyo. \nVakazoti vati fambei ndokuzonzwa kuti \nVanhu vaitoimba zvavo.\n‘…Tovera mudzimu dzoka\nAah ayiye mudzimu dzoka\nNyatene homwe dzoka\nAah ayiye homwe dzoka\nWoyera mudzimu dzoka…’\n\nChembere iyi yaishaura yaiva yakakora\nUye iine gurokuro ne ziguvhudende, \nAsi izwi chete here, \nYaiva nerakanyanyotsetseka mudunhu mese.\nZvino yaitamba mhande apa ichiimba futi, \nChiuya uone hako, \n‘Chitaurirwa hunyimwa…’ \nNdo payakatangira ipapa. \nPayaiti yokweva mweya paya \nGuvhudende raimbodzokera mukati,\nPoyofemera kunze raibva \nRaita kunge richadonha \nNekutamba kwayaiita kuye.\n\nMaidei akachizoisa maoko ake pasi \nKuti vanhu vachinyarara \nAsi ruzha rwavo rwakabva rwatowedzera, \nChaunga chaiva kumashure \nChakatanga kuvhura nzira pakati pavo, \n\nApa chichingozhambatata, \nDenga raiva rakachena \nRakatanga kusviba namakore matema, \nMakore emvura chaiwo, \nMheni ichirovera mumakore imomo; \nShiriwo dzaingunoimba dzakabva dza nyarara,\nMhepo ndokurega kuvhuvhuta, \nVanhu ndokubva vanyatsoti mwiro, \nApa meso ese zvino akanga ava kumashure uko.\n\nTumbuzviyo akasimuka paaiva agere \nNokuda kunyatsoonawo kuti chii chaitora nzvimbo, \nHanzvadzi yake \nYaiva yangoshama muromo yapererwawo. \nIpapo Tumbuzviyo akaona his worst nightmare, \nBhagedhiNeHafu na Ririti Nyatene\nVakanga vasvika.\n\nMvura ine mutsindo mukuru\nNdokubva yatanga kunaya…\n//The 2nd Exodus Ends//\n________________________________________\n//The New Beginning begins//\n\n‘Baba, chii chakazoitika?’\n\nHandizive, mapeji acho\nHaana kuzombobvira awanikwa, \nBut tradition says\nBhagedhiNeHafu akazoroorana\nNe mhandara yake ndokubva adzokera\nKu nyika yekwake,\nVakaita mhuri yavo\nYe rudo, Mufaro ne chiedza, and\n‘The Daughter of Pedigree’\nBegan to be known as\n‘The Queen of Pedigree,\nDaughter of the Consuming Fire,’\nNanhasi vachiri vese;\nPane detembo rinonzi ‘Mukwezveri,’\nTikariwana iroro, rinogona kutibatsira.\n\nNyatene wo akazorega zvousvikiro\nNdokuzova nyamukuta, \nAnd she died at a good old age \nBut haana kumbobvira akaita mwana wakewo, \nNdiye chembere ye Chivi iya \nYaunongonzwa ichitaurwa nezvayo.\n//The New Beginning lives on//",
+  "chapter": 4,
+  "price": 7,
+  "likes": [
+    {
+      "_id": {
+        "$oid": "5f5548a0ef0cdc05e4fc98c8"
+      },
+      "liker": {
+        "$oid": "5f343871790f390994fffadb"
+      },
+      "createdAt": {
+        "$date": "2020-09-06T20:37:52.592Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-06T20:37:52.592Z"
+      }
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": "2020-09-06T20:21:06.877Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-13T22:53:33.479Z"
+  },
+  "__v": 1
+}]
