@@ -99,7 +99,7 @@
 
 <script>
   import axios from 'axios';
-  import poems_static from '../assets/js/poems.json';
+  import poems_static from '../assets/js/poems';
 
   export default {
     data(){
@@ -126,10 +126,9 @@
     },
     methods: {
       fetchPoems(){
-        this.poems = poems_static;
-        /*return axios({
+        return axios({
           method: 'get',
-          url: 'http://localhost:8081/poems',//process.env.VUE_APP_BASE_URL+
+          url: '../../api/poems',//process.env.VUE_APP_BASE_URL+
           headers: {
             'Content-Type': 'application/json',
           },
@@ -138,12 +137,14 @@
           this.poems = res.data.poems;
           //this.$store.commit('POEMS', this.poems);
           if(!res.data.poems){
-            console.log('WHAT THE FUCK!!!',res);
+            this.poems = poems_static;
+            console.log('WHAT THE FUCK!!!',res.data);
           }
         })
         .catch((err)=>{
-          console.log(err);
-        });*/
+          console.log('USING STATIC DATA! Because of the following error',err);
+          this.poems = poems_static;
+        });/**/
       },
       g8_poem(poem){
         if(poem._id == this.poem._id)return;

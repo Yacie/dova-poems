@@ -9,7 +9,7 @@ export const connectToDatabase = async()=>{
 	}
 	else{
 		return MongoClient.connect(process.env.MONGODB_URI2, {
-			native_parser: true, 
+			//native_parser: true, 
 			useNewUrlParser: true,useUnifiedTopology: true,
 			useCreateIndex: true,
 			useFindAndModify: false 
